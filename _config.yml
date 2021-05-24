@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Graduate Research Assistant at the University of Illinois Urbana Champaign.
 twitter_username: username
 github_username: adam-bauer-34
-minimal_mistakes_skin: air
+minimal_mistakes_skin: accent
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Adam M. Bauer"
   avatar : "/assets/images/bio-photo.JPEG"
-  bio    : "Mainly a researcher, but also a rock climber, music addict, and Sheik main. #FreeMelee"
+  bio    : "Researcher, rock climber, music addict, and Sheik main. #FreeMelee"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -72,15 +72,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/adam-bauer-34"
+    - label: "Spotify"
+      icon: "fab fa-fw fa-spotify"
+      url: "https://open.spotify.com/user/wtgcepmie8g6x9eaywv5xnyx3"
 
 defaults:
   # _posts
