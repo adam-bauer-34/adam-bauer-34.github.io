@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Adam Bauer
-subtitle: Graduate Researcher in Physics
+subtitle: Physics Graduate Student
 email: adammb4 [at] illinois [dot] edu
 description: >- # this means to ignore newlines until "baseurl:"
   Graduate Research Assistant at the University of Illinois Urbana Champaign.
@@ -57,14 +57,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Adam M. Bauer"
+  name   : "Adam Bauer"
   avatar : "/assets/images/bio-photo.JPEG"
   bio    : "Graduate student, rock climber, music addict, and Sheik main. #FreeMelee"
-  location: "University of Illinois Urbana Champaign"
+  location: "Champaign, IL, USA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://adam-bauer-34.github.io"
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "https://drive.google.com/file/d/1gM0GZm3nyMRJI1wqAgQORsBoHORf9fxi/view?usp=sharing"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adam-bauer-34"
@@ -90,7 +90,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
