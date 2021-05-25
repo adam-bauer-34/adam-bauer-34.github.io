@@ -1,6 +1,11 @@
 ---
 permalink: /about/
-title: "About me”
+title: "About”
 ---
 
+# weird 
+
 just some text ddeeueuuudee 
+just some text ddeeueuuudee 
+just some text ddeeueuuudee just some text ddeeueuuudee just some text ddeeueuuudee 
+just some text ddeeueuuudee just some text ddeeueuuudee just some text ddeeueuuudee just some text ddeeueuuudee just some text ddeeueuuudee just some text ddeeueuuudee just some text ddeeueuuudee just some text ddeeueuuudee 
