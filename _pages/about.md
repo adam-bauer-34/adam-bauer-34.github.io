@@ -4,10 +4,8 @@ layout: single
 permalink: /aboutme/
 ---
 
-# Let’s do this?
+Here is a (very) brief overview of my professional life until now, starting with my undergraduate career at the University of Arizona, and finishing with my current status as a graduate student at the University of Illinois Urbana Champaign.
 
-## Can I make some changes?
+# Undergraduate studies
 
-Can i edit anything? Please?
 
-### Like this maybe?
