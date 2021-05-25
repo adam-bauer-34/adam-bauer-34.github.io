@@ -1,4 +1,7 @@
 ---
+title: “About me”
+layout: single
 permalink: /aboutme/
-title: "About me”
 ---
+
+Can i edit anything? Please?
