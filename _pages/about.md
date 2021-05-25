@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About”
+title: "About me”
 ---
 
 # The “long story” about an otherwise uninteresting person
