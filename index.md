@@ -12,6 +12,8 @@ Here are some quick links:
 
 [My CV (last updated on 8/9/2021)](https://drive.google.com/file/d/1hNMK_B9MkEc_842rcC3IrlzXJPwPOSZK/view?usp=sharing)
 
+[My Github](https://github.com/adam-bauer-34)
+
 [Department of Physics at the University of Illinois at Urbana Champaign](https://physics.illinois.edu/)
 
 [Department of Atmospheric Science at the University of Illionis Urbana Champaign](https://atmos.illinois.edu/)
