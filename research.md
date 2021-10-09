@@ -30,7 +30,7 @@ Secondly, we are collaborating with [Prof. Gernot Wagner](gwagner.com) to improv
 
 # Astrophysics projects 
 
-** * I no longer work in this field. This section just serves as a bit of an “archive.”**
+** I no longer work in this field. This section just serves as a bit of an “archive.”**
 
 My first astrophysics project was supervised by [Prof. Brenda Frye](https://www.as.arizona.edu/people/faculty/brenda-frye), Professor of astronomy at Steward Observatory. We studied the gravitational lensing of galaxy clusters using observational data, mainly spectroscopic and photometric. 
 
