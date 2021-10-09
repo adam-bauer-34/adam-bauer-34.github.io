@@ -1,5 +1,5 @@
 ---
-title: Bio?
+title: Bio
 feature_image: personal.jpg
 ---
 
