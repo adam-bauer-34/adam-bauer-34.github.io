@@ -1,6 +1,6 @@
 ---
 title: Adam Bauer
-feature_image: “/images/header.png“
+feature_image: “header“
 feature_text: |
   ## Adam Bauer
 ---
