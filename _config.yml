@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://adam-bauer-34.github.io'
 baseurl: ''
 title: 'Adam Bauer'
 description: 'Graduate Research Assistant at the University of Illinois Urbana Champaign'
@@ -36,10 +36,16 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
+- title: Bio
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Research
+  url: /research/
+- title: Outreach
+  url: /outreach/
+- title: Personal
+  url: /personal/
+- title: Contact
+  url: /contact/
 
 # Footer nav
 navigation_footer:
