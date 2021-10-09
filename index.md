@@ -6,7 +6,7 @@ feature_text: |
   ### Graduate Research Assistant
 ---
 
-I am a physics Ph.D. student at the University of Illinois at Urbana-Champaign, advised by [Prof. Cristian Proistosescu](https://cristi.web.illinois.edu/)). I am working to make advancements in the field of climate physics both in fundamental theory and its implications for economic, human, and ecological wellbeing.
+?I am a physics Ph.D. student at the University of Illinois at Urbana-Champaign, advised by [Prof. Cristian Proistosescu](https://cristi.web.illinois.edu/)). I am working to make advancements in the field of climate physics both in fundamental theory and its implications for economic, human, and ecological wellbeing.
 
 Here are some quick links:
 
