@@ -2,7 +2,6 @@
 title: Research interests
 layout: single
 permalink: /research/
-author_profile: true
 ---
 
 Here is a (very) brief overview of my professional involvements until now. First are my research efforts, listed in reverse chronological order. Second is a summary of the outreach programs I’ve been a part of. For a full description of my academic activities, check out my CV in the sidebar.
