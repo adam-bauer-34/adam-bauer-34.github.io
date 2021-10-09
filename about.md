@@ -15,9 +15,9 @@ I went to Depew High School, home of the Wildcats, where I got my high school de
 
 # Undergraduate years
 
-I did my undergraduate studies at the University of Arizona. For as much [slander](https://www.youtube.com/watch?v=v5IsoelUMF0) as Tucson gets in the media, I actually loved it there. At first I triple majored in astronomy, physics and mathematics, but over time I shaved off the astronomy major and settling on double majoring in physics and mathematics. (Although, these two majors have a lot of crossover, so it’s not that impressive that I managed this. I promise.) 
+I did my undergraduate studies at the University of Arizona. For as much [slander](https://www.youtube.com/watch?v=v5IsoelUMF0) as Tucson gets in the media, I actually loved it there. At first I triple majored in astronomy, physics and mathematics, but over time I shaved off the astronomy major and settled on double majoring in physics and mathematics. (Although, these two majors have a lot of crossover, so it’s not that impressive that I managed this. I promise.) 
 
-This was, quite possibly, the best decision of my life. I met some of my closest friends here, learned numerous valuable lessons (the hard way, mostly) and became deeply involved in the long road of self-actualization and discovery. I think lots of folks have a cursory interest in this sort of path — finding what one likes, doesn’t like, boundaries, etc. — but I find less people take this prospect seriously. In the end, truly is about 
+This was, quite possibly, the best decision of my life. I met some of my closest friends here, learned numerous valuable lessons (the hard way, mostly) and became deeply involved in the long road of self-actualization and discovery. Oh, and I also discovered my passion for rock climbing, which is far more important than any amount of self-actualization I’ll ever accomplish.
 
 # Graduate 
 I accepted an offer to become a Ph.D. student in physics at the University of Illinois at Urbana-Champaign in March 2020, and moved to Champaign-Urbana (CU) in August 2020. After a bit of an adjustment period, I’ve gotten used to life in CU, and enjoy it. For the most part. (Admittedly, I was spoiled to hell with beautiful weather and ample climbing areas in Tucson, so not having these now still saddens me.) 
