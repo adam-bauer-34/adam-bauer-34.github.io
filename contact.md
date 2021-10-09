@@ -6,7 +6,7 @@ I’m happy to collaborate on a wide variety of projects related to climate phys
 
 **Email:** adammb4 [at] illinois [dot] edu
 
-**Office:** Natural History Building, Rm 4050 1301 W Green St, Urbana, IL 61801
+**Office:** Natural History Building, Rm 4050, 1301 W Green St, Urbana, IL 61801
 
 
 
