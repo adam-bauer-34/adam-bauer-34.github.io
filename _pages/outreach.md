@@ -1,7 +1,7 @@
 ---
-title: About me
+title: Outreach involvement
 layout: single
-permalink: /aboutme/
+permalink: /outreach/
 author_profile: true
 ---
 

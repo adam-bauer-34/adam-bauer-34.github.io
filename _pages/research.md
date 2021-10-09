@@ -1,7 +1,7 @@
 ---
-title: About me
+title: Research interests
 layout: single
-permalink: /aboutme/
+permalink: /research/
 author_profile: true
 ---
 

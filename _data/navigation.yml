@@ -1,9 +1,9 @@
 main:
   - title: "About me"
     url: /aboutme/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categoriesandone/
-  - title: "Tags"
-    url: /tags/
+  - title: "Reseach interests"
+    url: /research/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Personal"
+    url: /personal/
