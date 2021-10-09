@@ -19,7 +19,7 @@ I did my undergraduate studies at the University of Arizona. For as much [slande
 
 This was, quite possibly, the best decision of my life. I met some of my closest friends here, learned numerous valuable lessons (the hard way, mostly) and became deeply involved in the long road of self-actualization and discovery. Oh, and I also discovered my passion for rock climbing, which is far more important than any amount of self-actualization I’ll ever accomplish.
 
-# Graduate 
+# Graduate years
 I accepted an offer to become a Ph.D. student in physics at the University of Illinois at Urbana-Champaign in March 2020, and moved to Champaign-Urbana (CU) in August 2020. After a bit of an adjustment period, I’ve gotten used to life in CU, and enjoy it. For the most part. (Admittedly, I was spoiled to hell with beautiful weather and ample climbing areas in Tucson, so not having these now still saddens me.) 
 
 I bounced around research groups before landing with Prof. Cristi Proistosescu in climate science. I decided to work in climate because I wanted my work to actually have impact in the world, rather than work on research for “discovery’s sake.” That is not to say this approach is not justified; I think it’s important that we pursue things like art and science without necessarily demanding they “apply” to society in any particular way. This just wasn’t satisfying for me — I wanted to have an impact, especially on a cause as important as climate change. 
