@@ -2,12 +2,12 @@
 title: Outreach involvement
 ---
 
-Here is a brief outline of some of the outreach programs I’ve been involved in throughout my career in academia. My primary focus has been to *recruit* and *retain* more individuals in science, regardless of their background, to create a more inclusive and diverse science community. 
+Aside from my research interests, I’ve also been involved in numerous outreach programs with the goal to *recruit* and *retain* more individuals in science, regardless of their background. The hope is that, through these programs, we create a more inclusive and diverse science community. 
 
 I am also more than happy to present science to a public audience — please contact me with any such opportunities! 
 
 ## Science outreach
-While at UArizona, I worked in the [Physics Discovery](https://flandrau.org/discoveries) program as both an instructor and as a project developer. The goal of this program was to give disadvantaged K-12 students exposure to science that they would otherwise not have. As an instructor, I gave small, hands-on physics lessons to local Tucson K-12 students. As a project manager, I built a set of demonstrations that showcased modern physics — such as the wave-particle duality and radioactivity — that has since been implemented in the program. 
+While at the University of Arizona (UArizona), I worked in the [Physics Discovery](https://flandrau.org/discoveries) program as both an instructor and as a project developer. The goal of this program was to give disadvantaged K-12 students exposure to science that they would otherwise not have. As an instructor, I gave small, hands-on physics lessons to local Tucson K-12 students. As a project manager, I built a set of demonstrations that showcased modern physics — such as the wave-particle duality and radioactivity — that has since been implemented in the program. 
 
 ## Mentoring
 Also at UArizona, I was a peer mentor in the Department of Astronomy. I mentored multiple students, helping them find research work and navigate the whirlwind of college life. I was especially proud that one of my students  was awarded a NASA/UArizona Space Grant Fellowship to fund his research efforts.
