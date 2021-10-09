@@ -1,9 +1,0 @@
-main:
-  - title: "About me"
-    url: /aboutme/
-  - title: "Reseach interests"
-    url: /research/
-  - title: "Outreach"
-    url: /outreach/
-  - title: "Personal"
-    url: /personal/
