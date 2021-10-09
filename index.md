@@ -2,7 +2,7 @@
 title: Adam Bauer
 feature_image: header.jpg
 feature_text: |
-  ## <font color=‘red’>Adam Bauer</font>
+  ## Adam Bauer{: style=“color: red;” }
   ### Graduate Research Assistant
 ---
 
