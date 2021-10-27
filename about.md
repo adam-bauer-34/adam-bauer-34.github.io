@@ -1,6 +1,6 @@
 ---
 title: Bio
-feature_image: /images/bio.001.jpeg
+feature_image: /images/bioagain.001.jpeg
 ---
 
 Here is a (very) brief overview of my life until now. Don’t worry — if you skip over this page, you won’t be missing much. I’m not that interesting. 
