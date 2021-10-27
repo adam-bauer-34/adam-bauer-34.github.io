@@ -1,6 +1,6 @@
 ---
 title: 
-feature_image: header.jpg
+feature_image: /images/header.jpg
 feature_text: |
   ## Adam Bauer
   ### Graduate Research Assistant

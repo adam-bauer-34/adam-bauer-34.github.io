@@ -1,12 +1,23 @@
 ---
 title: Research interests
+feature_image: /images/desert.jpg
 ---
 
-I have been involved in numerous different research efforts in my career. I am currently pursuing a Ph. D. in physics with a focus in climate and atmospheric physics; prior to this work, I devoted much of my attention to research in astrophysics. Below I describe my broad interests, as well as the many projects I’ve been involved with. 
+My research interests lie in the intersection of dynamical systems and climate physics. I give more extensive descriptions of my projects and broad interests below, in addition to some old projects I was involved in where I focused on astrophysics. For a list of publications, see my CV on the home page.
+
+# Climate physics projects
+
+Here are two of my projects I’m working on in the field of climate physics and dynamics. I am advised by [Prof. Cristi Proistosescu](https://cristi.web.illinois.edu/), where we are exploring two important themes related to climate change. 
+
+### The physics of extreme heating events 
+We are working to understand the arisal of heat waves and the basic physical mechanisms that lead to their occurance. Using conceptual models I’ve derived a 1D Hasselmann-like model for soil moisture dynamics with a analytically tractible nonlinearity. The strength of this model is that it decouples the temperature and moisture dynamics near the surface. We intend to use this model to explore the moments of soil moisture near the surface when forced with stochastic precipitation, and map the moisture moments to temperature moments.  This in turn will enable us to understand how the tails of the temperature PDF evolve in a warming planet, hence giving us an understanding of extreme heating events. 
+
+### The cost of climate change 
+Secondly, we are collaborating with [Prof. Gernot Wagner](gwagner.com) to improve our understanding of the economic implications of climate change by upgrading the climate module in Gernot’s climate-economic program, [EZClimate](https://github.com/Litterman/EZClimate). We use a two-box climate emulator to capture the multiple timescales in climate warming that is neglected by most (if not all) climate-economic models. This project will result in an updated cost of carbon which can be of use to policymakers as laws such as carbon taxes are drafted. 
 
 # Broad interests
 
-As stated above, my Ph. D. is focused on studying the Earth’s climate and how it evolves as the Earth warms. Below I outline my general interests, which I then apply specifically to climate physics in the following section. 
+As stated above, my Ph. D. is focused on studying the Earth’s climate and how it evolves as the Earth warms. Below I outline my general interests, which I then apply specifically to climate physics.
 
 ### Nonlinear dynamical systems
 
@@ -16,17 +27,7 @@ The two primary ways I tend to approach dynamical systems reseach is through rig
 
 ### Data science 
 
-What’s the point of theory if it doesn’t hold in the real world? The wealth of observational data and simulation data available to the climate science community allows us to conduct a litany of interesting science and discover correlations between seemingly uncorrelated physical events. This sector of my research toolkit is very much in its infancy, but I’m looking forward to develop it in the future.
-
-# Climate physics projects
-
-I explore the interests described above in my Ph. D. work, where I study climate physics. I am advised by [Prof. Cristi Proistosescu](https://cristi.web.illinois.edu/), where we are exploring two important themes related to climate change. 
-
-### The physics of extreme heating events 
-We are working to understand the arisal of heat waves and the basic physical mechanisms that lead to their occurance. Using conceptual models I’ve derived a 1D Hasselmann-like model for soil moisture dynamics with a analytically tractible nonlinearity. The strength of this model is that it decouples the temperature and moisture dynamics near the surface. We intend to use this model to explore the moments of soil moisture near the surface when forced with stochastic precipitation, and map the moisture moments to temperature moments.  This in turn will enable us to understand how the tails of the temperature PDF evolve in a warming planet, hence giving us an understanding of extreme heating events. 
-
-### The cost of climate change 
-Secondly, we are collaborating with [Prof. Gernot Wagner](gwagner.com) to improve our understanding of the economic implications of climate change by upgrading the climate module in Gernot’s climate-economic program, [EZClimate](https://github.com/Litterman/EZClimate). We use a two-box climate emulator to capture the multiple timescales in climate warming that is neglected by most (if not all) climate-economic models. This project will result in an updated cost of carbon which can be of use to policymakers as laws such as carbon taxes are drafted. 
+What’s the point of theory if it doesn’t hold in the real world? The wealth of observational, simulation, and reanalysis data available to the climate science community allows us to conduct a litany of interesting science and discover correlations between seemingly uncorrelated physical events. This sector of my research toolkit is very much in its infancy, but I’m looking forward to develop it in the future.
 
 # Astrophysics projects 
 
