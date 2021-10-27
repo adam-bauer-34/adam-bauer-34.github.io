@@ -3,7 +3,7 @@ title: Research interests
 feature_image: /images/desert.JPG
 ---
 
-My research interests lie in the intersection of dynamical systems and climate physics. I give more extensive descriptions of my projects and broad interests below, in addition to some old projects I was involved in where I focused on astrophysics. For a list of publications, see my CV on the home page!
+My research interests lie in the intersection of dynamical systems and climate physics. I give more extensive descriptions of my projects and techniques below, as well as a list of publications. Lastly, I list some former projects I was involved in where I focused on astrophysics. 
 
 # Climate physics projects
 
@@ -15,9 +15,9 @@ We are working to understand the arisal and persistance of heat waves with [Dr. 
 ### The cost of climate change 
 Secondly, we are collaborating with [Prof. Gernot Wagner](gwagner.com) to improve our understanding of the economic implications of climate change by upgrading the climate module in Gernot’s climate-economic program, [EZClimate](https://github.com/Litterman/EZClimate). We use a two-box climate emulator to capture the multiple timescales in climate warming that is neglected by most (if not all) climate-economic models. This project will result in an updated cost of carbon which can be of use to policymakers as laws such as carbon taxes are drafted. 
 
-# Broad interests
+# Research techniques
 
-As stated above, my Ph. D. is focused on studying the Earth’s climate and how it evolves as the Earth warms. Below I outline my general interests, which I then apply specifically to climate physics.
+As stated above, my Ph. D. is focused on studying the Earth’s climate and how it evolves as the Earth warms. Below I outline the ways I approach the problems I tackle in climate physics.
 
 ### Nonlinear dynamical systems
 
@@ -29,9 +29,27 @@ The two primary ways I tend to approach dynamical systems reseach is through rig
 
 What’s the point of theory if it doesn’t hold in the real world? The wealth of observational, simulation, and reanalysis data available to the climate science community allows us to conduct a litany of interesting science and discover correlations between seemingly uncorrelated physical events. This sector of my research toolkit is very much in its infancy, but I’m looking forward to develop it in the future.
 
-# Astrophysics projects 
+---
 
-**I no longer work in this field. This section just serves as a bit of an “archive” for past projects.**
+# Publications
+
+**A. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. *Spherical accretion in alternative theories of gravity*. Submitted to The Astrophysical Journal on 10/12/2021.
+
+M. Pascale, …, **A. Bauer** et al. *Multiband photometry and photometric redshift estimation in the field of PLCK G165+67.0*. In preparation, 2021.
+
+**A. Bauer**, P. Carter. *Existence of transonic solutions in the stellar wind problem with viscosity and heat conduction*. SIAM Journal on Applied Dynamical Systems, 20:1, 2021. [https://doi.org/10.1137/20M1314240](https://doi.org/10.1137/20M1314240).
+
+**A. Bauer**, B. L. Frye. *THELI Reduction Software: A write up for inexperienced data reducers*. [Posted to cloudynights.com](https://www.cloudynights.com/topic/679713-write-up-for-inexperienced-theli-users/), 2019. (Unrefereed).
+
+B. L. Frye, M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Conselice, M. Alpaslan, **A. Bauer**, L. Busoni, D. Coe, S. H. Cohen, M. Dole, M. Donahue, I. Georgiev, R. A. Jansen, M. Limousin, R. Livermore, D. Norman, S. Rabien, R. A. Windhorst. *PLCK G165.7+67.0: Analysis of a massive lensing cluster in a Hubble Space Telescope census of submillimeter giant arcs selected using Planck/Herschel*. The Astrophysical Journal, 817:1, 2019. [https://doi.org/10.3847/1538-4357/aaeff7](https://doi.org/10.3847/1538-4357/aaeff7).
+
+---
+
+# Past projects
+
+**I no longer work in these fields. This section just serves as a bit of an “archive” for former projects.**
+
+All of the projects below are focused on astrophysics. 
 
 My first astrophysics project was supervised by [Prof. Brenda Frye](https://www.as.arizona.edu/people/faculty/brenda-frye), Professor of astronomy at Steward Observatory. We studied the gravitational lensing of galaxy clusters using observational data, mainly spectroscopic and photometric. 
 
