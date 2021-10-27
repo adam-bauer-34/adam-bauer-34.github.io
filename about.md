@@ -1,9 +1,6 @@
 ---
 title: Bio
-feature_image: personal.jpg
-feature_text: |
-  ## Adam Bauer
-  ### Graduate Research Assistant
+feature_image: ../personal.jpg
 ---
 
 Here is a (very) brief overview of my life until now. Don’t worry — if you skip over this page, you won’t be missing much. I’m not that interesting. 
