@@ -1,5 +1,6 @@
 ---
 title: Outreach involvement
+feature_image: /images/sunset.JPG
 ---
 
 Aside from my research interests, I’ve also been involved in numerous outreach programs with the goal to *recruit* and *retain* more individuals in science, regardless of their background. The hope is that, through these programs, we create a more inclusive and diverse science community. 
