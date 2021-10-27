@@ -7,7 +7,7 @@ My research interests lie in the intersection of dynamical systems and climate p
 
 # Climate physics projects
 
-Here are two projects that I’m currently involved with in the field of climate physics and climate economics. Both of these projects are collaborations with my advisor, Prof. Cristi Proistosescu](https://cristi.web.illinois.edu/).
+Here are two projects that I’m currently involved with in the field of climate physics and climate economics. Both of these projects are collaborations with my advisor, [Prof. Cristi Proistosescu](https://cristi.web.illinois.edu/).
 
 ### The physics of extreme heating events 
 We are working to understand the arisal and persistance of heat waves with [Dr. Lucas Vargas-Zeppetello](https://vargaszeppetello.weebly.com/). Using conceptual models originally formulated by Lucas, I’ve derived a 1D Hasselmann-like model for soil moisture dynamics with a analytically tractible nonlinearity. The strength of this model is that it decouples the temperature and moisture dynamics near the surface. We intend to use this model to explore the moments of soil moisture near the surface when forced with stochastic precipitation, and map the moisture moments to temperature moments.  This in turn will enable us to understand how the tails of the temperature PDF evolve in a warming planet, hence giving us an understanding of extreme heating events. 
