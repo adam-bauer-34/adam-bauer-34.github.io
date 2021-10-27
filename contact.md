@@ -2,7 +2,7 @@
 title: Contact me
 ---
 
-I’m happy to collaborate on a wide variety of projects related to climate physics (and otherwise). If you’d like to reach me, email is likely the best way. I also have an office in the Natural History Building on the University of Illinois at Urbana Champaign campus, but I am hardly there because, frankly, parking on this campus is a disaster.
+I’m happy to collaborate on a wide variety of projects related to climate physics (and otherwise). If you’d like to reach me, email is likely the best way. I also have an office in the Natural History Building on the University of Illinois at Urbana Champaign campus, but I am hardly there because, frankly, parking on the UIUC campus is a disaster.
 
 **Email:** adammb4 [at] illinois [dot] edu
 

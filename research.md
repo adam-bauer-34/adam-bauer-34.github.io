@@ -7,7 +7,7 @@ My research interests lie in the intersection of dynamical systems and climate p
 
 # Climate physics projects
 
-Here are two of my projects I’m working on in the field of climate physics and dynamics. I am advised by [Prof. Cristi Proistosescu](https://cristi.web.illinois.edu/), where we are exploring two important themes related to climate change. 
+Here are two projects that I’m currently involved with in the field of climate physics and climate economics. Both of these projects are collaborations with my advisor, Prof. Cristi Proistosescu](https://cristi.web.illinois.edu/).
 
 ### The physics of extreme heating events 
 We are working to understand the arisal and persistance of heat waves with [Dr. Lucas Vargas-Zeppetello](https://vargaszeppetello.weebly.com/). Using conceptual models originally formulated by Lucas, I’ve derived a 1D Hasselmann-like model for soil moisture dynamics with a analytically tractible nonlinearity. The strength of this model is that it decouples the temperature and moisture dynamics near the surface. We intend to use this model to explore the moments of soil moisture near the surface when forced with stochastic precipitation, and map the moisture moments to temperature moments.  This in turn will enable us to understand how the tails of the temperature PDF evolve in a warming planet, hence giving us an understanding of extreme heating events. 
@@ -41,7 +41,7 @@ M. Pascale, …, **A. Bauer** et al. *Multiband photometry and photometric redsh
 
 **A. Bauer**, B. L. Frye. *THELI Reduction Software: A write up for inexperienced data reducers*. [Posted to cloudynights.com](https://www.cloudynights.com/topic/679713-write-up-for-inexperienced-theli-users/), 2019. (Unrefereed).
 
-B. L. Frye, M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Conselice, M. Alpaslan, **A. Bauer**, L. Busoni, D. Coe, S. H. Cohen, M. Dole, M. Donahue, I. Georgiev, R. A. Jansen, M. Limousin, R. Livermore, D. Norman, S. Rabien, R. A. Windhorst. *PLCK G165.7+67.0: Analysis of a massive lensing cluster in a Hubble Space Telescope census of submillimeter giant arcs selected using Planck/Herschel*. The Astrophysical Journal, 817:1, 2019. [https://doi.org/10.3847/1538-4357/aaeff7](https://doi.org/10.3847/1538-4357/aaeff7).
+B. L. Frye, M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Conselice, M. Alpaslan, **A. Bauer**, L. Busoni, D. Coe, S. H. Cohen, M. Dole, M. Donahue, I. Georgiev, R. A. Jansen, M. Limousin, R. Livermore, D. Norman, S. Rabien, R. A. Windhorst. *PLCK G165.7+67.0: Analysis of a massive lensing cluster in a Hubble Space Telescope census of submillimeter giant arcs selected using Planck/Herschel*. The Astrophysical Journal, 871:1, 2019. [https://doi.org/10.3847/1538-4357/aaeff7](https://doi.org/10.3847/1538-4357/aaeff7).
 
 ---
 
@@ -51,10 +51,10 @@ B. L. Frye, M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Con
 
 All of the projects below are focused on astrophysics. 
 
-My first astrophysics project was supervised by [Prof. Brenda Frye](https://www.as.arizona.edu/people/faculty/brenda-frye), Professor of astronomy at Steward Observatory. We studied the gravitational lensing of galaxy clusters using observational data, mainly spectroscopic and photometric. 
+My first astrophysics project was supervised by [Prof. Brenda Frye](https://www.as.arizona.edu/people/faculty/brenda-frye), Professor of astronomy at Steward Observatory. We studied the gravitational lensing of galaxy clusters using observational data, mainly spectroscopic and photometric. I coauthored two papers while a member of this group.
 
-My second advisor was [Prof. Paul Carter](http://www-users.math.umn.edu/~pcarter/index.html), Professor of mathematics now at the University of Minnesota Twin Cities. Together we proved the existence of transonic stellar wind solutions to the Navier-Stokes equations, including viscosity and head conduction, totally rigorously using geometric singular perturbation theory. This was a highly enjoyable project. 
+My second advisor was [Prof. Paul Carter](http://www-users.math.umn.edu/~pcarter/index.html), Professor of mathematics now at the University of Minnesota Twin Cities. Together we proved the existence of transonic stellar wind solutions to the Navier-Stokes equations, including viscosity and head conduction, totally rigorously using geometric singular perturbation theory. This was a highly enjoyable project, and led to my first lead-authored publication.
 
-My third & final advisor at UArizona was [Prof. Sam Gralla](http://u.arizona.edu/~sgralla/). We worked on exploring the Aretakis instability near the inner horizon of black holes.
+My third & final advisor at UArizona was [Prof. Sam Gralla](http://u.arizona.edu/~sgralla/). We worked on exploring the Aretakis instability near the inner horizon of black holes. This work resulted in my senior thesis.
 
-My final project was co-advised by [Prof. Nico Yunes](https://physics.illinois.edu/people/directory/profile/nyunes) and [Prof. Charles Gammie](https://physics.illinois.edu/people/directory/profile/gammie) (with great support from Dr. [Alejandro Cardenas-Avendano](https://alejandroc137.bitbucket.io/)). We used numerical and analytic models to ascertain that the Event Horizon Telescope can be used to test general relativity against modified gravity theories given sufficiently well-understood astrophysical modeling. 
+My final project was co-advised by [Prof. Nico Yunes](https://physics.illinois.edu/people/directory/profile/nyunes) and [Prof. Charles Gammie](https://physics.illinois.edu/people/directory/profile/gammie) (with great support from Dr. [Alejandro Cardenas-Avendano](https://alejandroc137.bitbucket.io/)). We used numerical and analytic models to ascertain that the Event Horizon Telescope can be used to test general relativity against modified gravity theories given sufficiently well-understood astrophysical modeling. I first authored a manuscript on the results of this project that has been submitted to for publication.
