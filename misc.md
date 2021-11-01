@@ -1,6 +1,7 @@
 ---
 title: Miscellaneous
 layout: categories
+aside: true
 feature_text: |
   ## Notes, resources, and personal musings
 feature_image: /images/pemby.jpg
