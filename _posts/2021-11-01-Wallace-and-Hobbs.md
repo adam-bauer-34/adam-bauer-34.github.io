@@ -38,7 +38,11 @@ The mass of the ocean is 250x that of the atmosphere :o.
 
 #### (a) Composition and vertical structure
 
-The density of sea water is linearly dependent on the concentration of dissolved salt, i.e., $\rho_{ocean} \sim s$, if *s* is the salinity (i.e., concentration of dissovled salt). The density of the ocean, $\sigma$, is a complicated function of temperature, but not a strong function of pressure, such that $\sigma = \sigma(T, s)$. 
+The density of sea water is linearly dependent on the concentration of dissolved salt, i.e., 
+
+![\Large \rho_{ocean} \sim s,](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+
+if *s* is the salinity (i.e., concentration of dissovled salt). The density of the ocean, &sigma;, is a complicated function of temperature, but not a strong function of pressure, such that &sigma; = &sigma;(T,s). 
 
 Because ocean water is saline, the temperature dependence of density is different than pure water. For fresh water, density increases as temperature increases between T = 0 C and T = 4 C, whereas in ocean water density monatonically decreases with temperature for all T. This causes ice to float in ocean water, because ice is less dense than sea water.
 
