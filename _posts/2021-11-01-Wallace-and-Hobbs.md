@@ -1,12 +1,10 @@
 ---
-title: Notes on *Atmospheric science* by Wallace and Hobbs
+title: Notes on “Atmospheric Science” by Wallace and Hobbs
 categories:
 - Textbook notes
 - Atmospheric science
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
-# Notes on *Atmospheric science, 2nd ed.* by John M. Wallace and Peter V. Hobbs 
 
 These are my notes on the book *Atmospheric science*, by Wallace and Hobbs. I am attempting to self-teach myself atmospheric science out of this book, so I’ve decided to take some detailed notes and make them public on my website. Please excuse any typos throughout, and let me know if you find any. 
 
