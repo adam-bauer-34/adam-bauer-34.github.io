@@ -38,9 +38,9 @@ The mass of the ocean is 250x that of the atmosphere :o.
 
 #### (a) Composition and vertical structure
 
-The density of sea water is linearly dependent on the concentration of dissolved salt, i.e., &sigma; &sim; *s*, if *s* is the salinity (i.e., concentration of dissovled salt). The density of the ocean, &sigma;, is a complicated function of temperature, but not a strong function of pressure, such that &sigma; = &sigma;(T,s). 
+The density of sea water, &sigma;, is linearly dependent on the concentration of dissolved salt, i.e., &sigma; &sim; *s*, if *s* is the salinity (i.e., concentration of dissovled salt). The density of the ocean, &sigma;, is a complicated function of temperature, but not a strong function of pressure, such that &sigma; = &sigma;(T,s). 
 
-Because ocean water is saline, the temperature dependence of density is different than pure water. For fresh water, density increases as temperature increases between T = 0 C and T = 4 C, whereas in ocean water density monatonically decreases with temperature for all T. This causes ice to float in ocean water, because ice is less dense than sea water.
+Because ocean water is saline, the temperature dependence of density is different than pure water. For fresh water, density increases as temperature increases between T = 0 &deg;C and T = 4 &deg;C, whereas in ocean water density monatonically decreases with temperature for all T. This causes ice to float in ocean water, because ice is less dense than sea water.
 
 The ocean has an upper *mixed layer,* which is mixed by wind and has a slightly lower density than the layers beneath it. Then there is the *pynocline*, which locates much of the density gradient in the ocean. This density gradient **inhibits vertical mixing**, much like the temperature gradient in the tropopause inhibits vertical mixing between the troposphere and stratosphere. (This is why ozone doesn’t become uniformly distributed in the troposphere.)
 
