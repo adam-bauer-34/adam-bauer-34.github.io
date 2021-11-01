@@ -22,9 +22,10 @@ The structure of these notes follows the structure of the book, with an addition
 
 **Zonal mean**: Mean along lines of latitude 
 
-# Chapter 2: The Earth system <a name=“ch2”></a>
+# Chapter 2: The Earth system 
 
-## 2.1: Components of the Earth system
+## 2.1: Components of the Earth system <a name=“ch2”></a>
+
 
 Major players in the Earth’s climate system: 
 - *Atmospheric radiation and convection*: regulates temperature at the Earth’s surface, sets limits on snow and ice cover 
