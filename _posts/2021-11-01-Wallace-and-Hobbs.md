@@ -10,7 +10,11 @@ These are my notes on the book *Atmospheric science*, by Wallace and Hobbs. I am
 
 The structure of these notes follows the structure of the book, with an additional “Dictionary” section added in the beginning so that I (you) can easily reference terms that are unfamiliar to me (you). These are organized in alphebetical order. 
 
-# Dictionary 
+# Contents
+1. [Dictionary](#dict)
+2. [Chapter 2: The Earth system](#ch2)
+
+# Dictionary <a name=“dict”></a>
 
 **Convection**: the process by which relatively hot fluid (and thus, less dense fluid) rises and thus causes relatively cold fluid to sink.
 
@@ -18,7 +22,7 @@ The structure of these notes follows the structure of the book, with an addition
 
 **Zonal mean**: Mean along lines of latitude 
 
-# Chapter 2: The Earth system
+# Chapter 2: The Earth system <a name=“ch2”></a>
 
 ## 2.1: Components of the Earth system
 
