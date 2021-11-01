@@ -10,11 +10,7 @@ These are my notes on the book *Atmospheric science*, by Wallace and Hobbs. I am
 
 The structure of these notes follows the structure of the book, with an additional “Dictionary” section added in the beginning so that I (you) can easily reference terms that are unfamiliar to me (you). These are organized in alphebetical order. 
 
-# Contents
-1. [Dictionary](#dict)
-2. [Chapter 2: The Earth system](#ch2)
-
-# Dictionary <a name=“dict”></a>
+# Dictionary 
 
 **Convection**: the process by which relatively hot fluid (and thus, less dense fluid) rises and thus causes relatively cold fluid to sink.
 
@@ -24,8 +20,7 @@ The structure of these notes follows the structure of the book, with an addition
 
 # Chapter 2: The Earth system 
 
-## 2.1: Components of the Earth system <a name=“ch2”></a>
-
+## 2.1: Components of the Earth system 
 
 Major players in the Earth’s climate system: 
 - *Atmospheric radiation and convection*: regulates temperature at the Earth’s surface, sets limits on snow and ice cover 
@@ -86,3 +81,6 @@ The local SSTs feedback on the atmosphere; dry regions (like the Sahara desert a
 ### The cryosphere 
 
 To be continued :) 
+
+---
+Copyright to Adam Bauer. Freely use these notes so long as you cite them. 
