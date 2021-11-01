@@ -40,7 +40,7 @@ The mass of the ocean is 250x that of the atmosphere :o.
 
 The density of sea water is linearly dependent on the concentration of dissolved salt, i.e., 
 
-<a href=“https://www.codecogs.com/eqnedit.php?latex=\sigma_{ocean}&space;\sim&space;s” target=“_blank”><img src=“https://latex.codecogs.com/gif.latex?\sigma_{ocean}&space;\sim&space;s” title=“\sigma_{ocean} \sim s” /></a>
+<img src=“https://latex.codecogs.com/gif.latex?\sigma_{ocean}&space;\sim&space;s” title=“\sigma_{ocean} \sim s” />
 
 if *s* is the salinity (i.e., concentration of dissovled salt). The density of the ocean, &sigma;, is a complicated function of temperature, but not a strong function of pressure, such that &sigma; = &sigma;(T,s). 
 
