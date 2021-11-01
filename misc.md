@@ -6,4 +6,4 @@ feature_text: |
 feature_image: /images/pemby.jpg
 ---
 
-Here I will put miscellaneous articles that might be of interest to some folks. 
+Here I will put miscellaneous articles that might be of interest to some folks. Topics are sorted in the left-hand sidebar. 
