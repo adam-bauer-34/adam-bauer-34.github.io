@@ -78,9 +78,62 @@ Wind causes zonal SST anomalies, as wind drags warm water west in the tropics an
 
 The local SSTs feedback on the atmosphere; dry regions (like the Sahara desert and the American southwest) are dry because they are located near *cold tounges* of the ocean. 
 
-### The cryosphere 
+### 2.1.2: The cryosphere 
 
-To be continued :) 
+The crysophere refers to parts of the Earth system where water is in its solid form, i.e., snow and ice.
+
+This system contributes to the thermal inertia via
+- *Albedo*: by reflecting solar radiation 
+- Influencing thermohaline circulation by feeding the ocean with fresh (low salinity) water 
+
+Antarctica and Greenland (coined *continental ice sheets*) are the largest contributors to the cryosphere.
+
+*How ice sheets form*: Snow falls onto the ice sheet; more snow falls, compressing the existing snow into ice; as yet more snow falls, the pressure causes the ice to spread out horizontally and shrink vertically.
+
+*Sea ice* covers more area on Earth than the continental ice sheets, but is comparitively thin. The field of sea ice is more of a fractal than a continuous sheet, with individual components being dragged by wind. 
+
+The annual mean sea ice motion is dominated by the *Beaufort gyre* to the north of Alaska and the *transpolar drift stream* from Siberia towards Greenland.
+
+When water freezes into new ice, it rejects the salt that was previously dissolved in it. This creates a *brine* of unusually high salinity sea water, which causes average salinity sea water to sink (hence causing the thermohaline circulation at the poles). This is why the main areas of water sinking is near ice sheets.
+
+The last member of the cryosphere (discussed here) is *permafrost*. This is permanently frozen soil (>2 years) and is hugely important for influencing terrestrial ecology. The permafrost closely follows the 0 &deg;C annual mean isotherm, but does slightly extend beneath it due to seasonal snow insulation.
+
+### 2.1.3: The terrestrial biosphere
+
+The terrestrial biosphere is largely divided up into *biomes*, which comprise of distinct collections of plants and animals. Which biome one resides in depends on 
+- annual-mean temperature
+- annual and diurnal temperature ranges
+- annual-mean precipitation 
+- the seasonal distributions of precipitation and cloudiness 
+
+The biosphere feeds back on the atmosphere in a variety of ways:
+- *The hydrologic cycle*: In the summer when plants are abundant, incoming solar radiation gets used to (1) evaporate water and (2) fuel photosynthesis (which results in water being put into the atmosphere). In these cases, the energy is put into the atmosphere (through the water vapor) without heating the surface (i.e., is injected as a latent heat flux rather than a sensible heat flux). This is why grass covered areas are cooler than pavement.
+- *Local albedo*: snow relfects sunlight
+- *Roughness of land surface*: inhibits or enables high wind speed
+
+### 2.1.4: The Earth’s crust and mantle 
+
+The layout of Earth’s mountains, oceans and continents are primarily a result of *plate tectonics* and *continental drift*. 
+
+Ocean plates colliding with continental plates causes ocean plates to be *subducted* (i.e., sucked underneath the continental plate) because the ocean plates are less dense. The ocean plate then becomes part of the mantle. The ocean plate is replenished where the mantle upwells into the ocean and cools, i.e., along the mid-Atlantic ridge.
+
+Collisions between plate boundaries cause volcanic activity, earthquakes, and mountain ranges.
+
+### 2.1.5: Roles of various components of the Earth system in climate
+
+The various atmosphere, geologic, oceanic and biospheric (?) processes described above all **feedback** on the climate system. The concept of a feedback is important in climate science and is used to characterize the impact of various processes on the global climate system. This will be the topic of future discussion.
+
+## 2.2: The hydrologic cycle 
+
+
+# Cool stuff
+
+This section is reserved for those bits of science that make you go “woah, that’s really freaking cool.”
+
+- The theory of continental drift, first proposed by Alfred Wegener in 1912, was rejected until the 1960s until magnetic fields from the ocean floor could be detected to confirm the formation of new tectonic plates (that cause drift).
+- The transpolar drift stream was discovered by sailing an empty ship from Siberia to Greenland [i.e., across the North Pole!] whose mast could withstand the pressue of freezing. The ship was called *Forward*, and resulted in the official discovery of the transpolar drift stream. The original thought to do this was after the discovery that a shipwreck in Siberia ended up in Greenland ~5 years after it was lost! 
+
+To be continued :)
 
 ---
-Copyright to Adam Bauer. Freely use these notes so long as you cite them. 
+Copyright to Adam Bauer, 2021. Freely use these notes so long as you cite them. 
