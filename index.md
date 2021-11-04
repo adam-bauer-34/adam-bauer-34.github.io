@@ -16,7 +16,7 @@ I am a physics Ph.D. student at the University of Illinois at Urbana-Champaign, 
 
 Here are some quick links:
 
-[My CV (last updated on 8/9/2021)](https://drive.google.com/file/d/1hNMK_B9MkEc_842rcC3IrlzXJPwPOSZK/view?usp=sharing)
+[My CV (last updated on 11/4/2021)](/files/CV_full.pdf)
 
 [My Github](https://github.com/adam-bauer-34)
 
