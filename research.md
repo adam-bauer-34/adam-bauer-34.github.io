@@ -33,7 +33,7 @@ What’s the point of theory if it doesn’t hold in the real world? The wealth 
 
 # Publications
 
-**A. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. *Spherical accretion in alternative theories of gravity*. Submitted to The Astrophysical Journal on 10/12/2021.
+**A. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. *Spherical accretion in alternative theories of gravity*. Submitted to The Astrophysical Journal on 10/12/2021. [arXiv link.](https://arxiv.org/abs/2111.02178)
 
 M. Pascale, …, **A. Bauer** et al. *Multiband photometry and photometric redshift estimation in the field of PLCK G165+67.0*. In preparation, 2021.
 
@@ -57,4 +57,4 @@ My second advisor was [Prof. Paul Carter](http://www-users.math.umn.edu/~pcarter
 
 My third & final advisor at UArizona was [Prof. Sam Gralla](http://u.arizona.edu/~sgralla/). We worked on exploring the Aretakis instability near the inner horizon of black holes. This work resulted in my senior thesis.
 
-My final project was co-advised by [Prof. Nico Yunes](https://physics.illinois.edu/people/directory/profile/nyunes) and [Prof. Charles Gammie](https://physics.illinois.edu/people/directory/profile/gammie) (with great support from Dr. [Alejandro Cardenas-Avendano](https://alejandroc137.bitbucket.io/)). We used numerical and analytic models to ascertain that the Event Horizon Telescope can be used to test general relativity against modified gravity theories given sufficiently well-understood astrophysical modeling. I first authored a manuscript on the results of this project that has been submitted to for publication.
+My final project was co-advised by [Prof. Nico Yunes](https://physics.illinois.edu/people/directory/profile/nyunes) and [Prof. Charles Gammie](https://physics.illinois.edu/people/directory/profile/gammie) (with great support from Dr. [Alejandro Cardenas-Avendano](https://alejandroc137.bitbucket.io/)). We used numerical and analytic models to ascertain that the Event Horizon Telescope can be used to test general relativity against modified gravity theories given sufficiently well-understood astrophysical modeling. I first authored a manuscript on the results of this project that is in revision for publication.
