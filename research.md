@@ -3,7 +3,7 @@ title: Research interests
 feature_image: /images/desert.JPG
 ---
 
-My research interests lie in the intersection of dynamical systems and climate physics. I give more extensive descriptions of my projects and techniques below, as well as a list of publications. Lastly, I list some former projects I was involved in where I focused on astrophysics. 
+My research interests lie in the intersection of dynamical systems and climate physics. I give more extensive descriptions of my projects and techniques below, as well as a list of publications. *If you cannot access any of the publications listed, please email me and I’d be happy to provide a copy.* Lastly, I list some former projects I was involved in where I focused on astrophysics. 
 
 # Climate physics projects
 
