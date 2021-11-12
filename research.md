@@ -33,15 +33,15 @@ What’s the point of theory if it doesn’t hold in the real world? The wealth 
 
 # Publications
 
-**A. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. *Spherical accretion in alternative theories of gravity*. Revised manuscript submitted to The Astrophysical Journal on 11/8/2021. [arXiv link.](https://arxiv.org/abs/2111.02178)
+**A. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity. Revised manuscript submitted to *The Astrophysical Journal* on 11/8/2021. [arXiv link.](https://arxiv.org/abs/2111.02178)
 
-M. Pascale, B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. *Multiband photometry and photometric redshift estimation in the field of PLCK G165+67.0*. In preparation, 2021.
+M. Pascale, B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. Multiband photometry and photometric redshift estimation in the field of PLCK G165+67.0. In preparation, 2021.
 
-**A. Bauer**, P. Carter. *Existence of transonic solutions in the stellar wind problem with viscosity and heat conduction*. SIAM Journal on Applied Dynamical Systems, 20:1, 2021. [https://doi.org/10.1137/20M1314240](https://doi.org/10.1137/20M1314240).
+**A. Bauer**, P. Carter. Existence of transonic solutions in the stellar wind problem with viscosity and heat conduction. *SIAM Journal on Applied Dynamical Systems*, 20:1, 2021. [https://doi.org/10.1137/20M1314240](https://doi.org/10.1137/20M1314240).
 
-**A. Bauer**, B. L. Frye. *THELI Reduction Software: A write up for inexperienced data reducers*. [Posted to cloudynights.com](https://www.cloudynights.com/topic/679713-write-up-for-inexperienced-theli-users/), 2019. (Unrefereed).
+**A. Bauer**, B. L. Frye. THELI Reduction Software: A write up for inexperienced data reducers. [*Posted to cloudynights.com*](https://www.cloudynights.com/topic/679713-write-up-for-inexperienced-theli-users/), 2019. (Unrefereed).
 
-B. L. Frye, M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Conselice, M. Alpaslan, **A. Bauer**, L. Busoni, D. Coe, S. H. Cohen, M. Dole, M. Donahue, I. Georgiev, R. A. Jansen, M. Limousin, R. Livermore, D. Norman, S. Rabien, R. A. Windhorst. *PLCK G165.7+67.0: Analysis of a massive lensing cluster in a Hubble Space Telescope census of submillimeter giant arcs selected using Planck/Herschel*. The Astrophysical Journal, 871:1, 2019. [https://doi.org/10.3847/1538-4357/aaeff7](https://doi.org/10.3847/1538-4357/aaeff7).
+B. L. Frye, M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Conselice, M. Alpaslan, **A. Bauer**, L. Busoni, D. Coe, S. H. Cohen, M. Dole, M. Donahue, I. Georgiev, R. A. Jansen, M. Limousin, R. Livermore, D. Norman, S. Rabien, R. A. Windhorst. PLCK G165.7+67.0: Analysis of a massive lensing cluster in a Hubble Space Telescope census of submillimeter giant arcs selected using Planck/Herschel. *The Astrophysical Journal*, 871:1, 2019. [https://doi.org/10.3847/1538-4357/aaeff7](https://doi.org/10.3847/1538-4357/aaeff7).
 
 ---
 
