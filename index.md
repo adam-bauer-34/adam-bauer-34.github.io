@@ -10,7 +10,7 @@ I am a physics Ph.D. student at the University of Illinois at Urbana-Champaign, 
 
 ---
 
-**Announcement:** My last ever paper in astrophysics was just posted to arXiv (and is in revision for publication)! Check it out here: [*Spherical accretion in alternative theories of gravity*](https://arxiv.org/abs/2111.02178)
+**Announcement:** My last ever paper in astrophysics was accepted into *The Astrophysical Journal*! Check it out: [*Spherical accretion in alternative theories of gravity*](https://arxiv.org/abs/2111.02178)
 
 ---
 
