@@ -53,7 +53,7 @@ All of the projects below are focused on astrophysics.
 
 My first astrophysics project was supervised by [Prof. Brenda Frye](https://www.as.arizona.edu/people/faculty/brenda-frye), Professor of astronomy at Steward Observatory. We studied the gravitational lensing of galaxy clusters using observational data, mainly spectroscopic and photometric. I coauthored two papers while a member of this group.
 
-My second advisor was [Prof. Paul Carter](http://www-users.math.umn.edu/~pcarter/index.html), Professor of mathematics now at the University of Minnesota Twin Cities. Together we proved the existence of transonic stellar wind solutions to the Navier-Stokes equations, including viscosity and head conduction, totally rigorously using geometric singular perturbation theory. This was a highly enjoyable project, and led to my first lead-authored publication.
+My second advisor was [Prof. Paul Carter](https://www.math.uci.edu/~pacarter/), Professor of mathematics now at the University of Minnesota Twin Cities. Together we proved the existence of transonic stellar wind solutions to the Navier-Stokes equations, including viscosity and head conduction, totally rigorously using geometric singular perturbation theory. This was a highly enjoyable project, and led to my first lead-authored publication.
 
 My third & final advisor at UArizona was [Prof. Sam Gralla](http://u.arizona.edu/~sgralla/). We worked on exploring the Aretakis instability near the inner horizon of black holes. This work resulted in my senior thesis.
 
