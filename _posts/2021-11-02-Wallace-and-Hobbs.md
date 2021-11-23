@@ -18,6 +18,10 @@ The structure of these notes follows the structure of the book, with an addition
 
 **Zonal mean**: Mean along lines of latitude 
 
+**Residence time**: mass divided by the *efflux*
+
+**Efflux**: the rate at which a given substance exits a reservior; an outgoing flux of material 
+
 # Chapter 2: The Earth system 
 
 ## 2.1: Components of the Earth system 
@@ -125,6 +129,9 @@ The various atmosphere, geologic, oceanic and biospheric (?) processes described
 
 ## 2.2: The hydrologic cycle 
 
+A lot of the biosphere depends on the hydrologic cycle, i.e., the cycling of water between reserviors. Useful when discussing this topic is the concept of *residence time*, which indicates how long a given water (or substance, generally) parcel remains in a reservior. 
+
+The Earth’s mantle is the largest water reservior in the hydrologic cycle, followed by the oceans and continental ice sheets.
 
 # Cool stuff
 
@@ -132,6 +139,7 @@ This section is reserved for those bits of science that make you go “woah, tha
 
 - The theory of continental drift, first proposed by Alfred Wegener in 1912, was rejected until the 1960s until magnetic fields from the ocean floor could be detected to confirm the formation of new tectonic plates (that cause drift).
 - The transpolar drift stream was discovered by sailing an empty ship from Siberia to Greenland [i.e., across the North Pole!] whose mast could withstand the pressue of freezing. The ship was called *Forward*, and resulted in the official discovery of the transpolar drift stream. The original thought to do this was after the discovery that a shipwreck in Siberia ended up in Greenland ~5 years after it was lost! 
+- Given the amount of water in the Earth’s mantle (~2 x 10<sup>7<\sup> kg m<sup>-2<\sup>) and it’s efflux (~ 2 x 10<sup>-4<\sup> kg m<sup>-2<\sup> year<sup>-1<\sup>), the amount of water that’s been extracted from the mantle over the course of the Earth’s lifetime (~4.5 x 10<sup>9<\sup> years) is not enough to fill the oceans! 
 
 To be continued :)
 
