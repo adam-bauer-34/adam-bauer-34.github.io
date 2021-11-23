@@ -133,6 +133,16 @@ A lot of the biosphere depends on the hydrologic cycle, i.e., the cycling of wat
 
 The Earth’s mantle is the largest water reservior in the hydrologic cycle, followed by the oceans and continental ice sheets.
 
+Mathematically modeling the hydrologic cycle essentially boils down to writing down the *conservation of mass flux* equations for water. To do this, one needs to identify how water leaves and enters the atmosphere. 
+
+Water is expelled from the atmosphere through precipitation, and is supplied to the atmosphere through evapotranspiration. Any additional gradient in water content can be attributed to turbulent winds carrying water vapor into or away from a given region. Hence, in the steady state, one can write the mass flux equations (over the ocean in the book) as 
+
+<a href=“https://www.codecogs.com/eqnedit.php?latex=\overline{P}&space;-&space;\overline{E}&space;=&space;\overline{W}” target=“_blank”><img src=“https://latex.codecogs.com/gif.latex?\overline{P}&space;-&space;\overline{E}&space;=&space;\overline{W}” title=“\overline{P} - \overline{E} = \overline{W}” /></a>
+
+where *P* is the precipitation flux, *E* is the evapotranspiration flux, and *W* is the winds water flux. 
+
+One can readily identify the source of water into the terrestrial hydrosphere: precipitation. The primary way that water is transferred from the hydrosphere to the atmosphere is through evapotranspiration. Any remaining local changes in mass flux is accounted for via the transport of water vapor through winds.
+
 # Cool stuff
 
 This section is reserved for those bits of science that make you go “woah, that’s really freaking cool.”
