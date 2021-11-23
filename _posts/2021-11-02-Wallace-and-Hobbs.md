@@ -4,7 +4,6 @@ categories:
 - Textbook notes
 - Atmospheric science
 feature_image: "https://picsum.photos/2560/600?image=872"
-<script id=“MathJax-script” async src=“https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js”></script>
 ---
 
 These are my notes on the book *Atmospheric science*, by Wallace and Hobbs. I am attempting to self-teach myself atmospheric science out of this book, so I’ve decided to take some detailed notes and make them public on my website. Please excuse any typos throughout, and let me know if you find any. 
