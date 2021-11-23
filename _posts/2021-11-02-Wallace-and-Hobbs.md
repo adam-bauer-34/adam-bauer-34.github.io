@@ -6,6 +6,8 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
+<script id=“MathJax-script” async src=“https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js”></script>
+
 These are my notes on the book *Atmospheric science*, by Wallace and Hobbs. I am attempting to self-teach myself atmospheric science out of this book, so I’ve decided to take some detailed notes and make them public on my website. Please excuse any typos throughout, and let me know if you find any. 
 
 The structure of these notes follows the structure of the book, with an additional “Dictionary” section added in the beginning so that I (you) can easily reference terms that are unfamiliar to me (you). These are organized in alphebetical order. 
@@ -137,10 +139,7 @@ Mathematically modeling the hydrologic cycle essentially boils down to writing d
 
 Water is expelled from the atmosphere through precipitation, and is supplied to the atmosphere through evapotranspiration. Any additional gradient in water content can be attributed to turbulent winds carrying water vapor into or away from a given region. Hence, in the steady state, one can write the mass flux equations (over the ocean in the book) as 
 
-<img src=“https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}” title=“\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}” />
-
-
-<a href=“https://www.codecogs.com/eqnedit.php?latex=\overline{P}&space;-&space;\overline{E}&space;=&space;\overline{W}” target=“_blank”><img src=“https://latex.codecogs.com/gif.latex?\overline{P}&space;-&space;\overline{E}&space;=&space;\overline{W}” title=“\overline{P} - \overline{E} = \overline{W}” /></a>
+$$ \bar{P} $$
 
 where *P* is the precipitation flux, *E* is the evapotranspiration flux, and *W* is the winds water flux. 
 
