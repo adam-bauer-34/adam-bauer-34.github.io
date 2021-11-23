@@ -137,6 +137,9 @@ Mathematically modeling the hydrologic cycle essentially boils down to writing d
 
 Water is expelled from the atmosphere through precipitation, and is supplied to the atmosphere through evapotranspiration. Any additional gradient in water content can be attributed to turbulent winds carrying water vapor into or away from a given region. Hence, in the steady state, one can write the mass flux equations (over the ocean in the book) as 
 
+<img src=“https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}” title=“\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}” />
+
+
 <a href=“https://www.codecogs.com/eqnedit.php?latex=\overline{P}&space;-&space;\overline{E}&space;=&space;\overline{W}” target=“_blank”><img src=“https://latex.codecogs.com/gif.latex?\overline{P}&space;-&space;\overline{E}&space;=&space;\overline{W}” title=“\overline{P} - \overline{E} = \overline{W}” /></a>
 
 where *P* is the precipitation flux, *E* is the evapotranspiration flux, and *W* is the winds water flux. 
