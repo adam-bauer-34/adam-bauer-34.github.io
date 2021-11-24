@@ -12,7 +12,5 @@ The structure of these notes follows the structure of the book, with an addition
 
 [The notes](/files/notes/wallaceandhobbs/wallaceandhobbs.pdf)
 
-To be continued :)
-
 ---
 Copyright to Adam Bauer, 2021. Freely use these notes so long as you cite them. 
