@@ -1,0 +1,222 @@
+\documentclass[11pt]{article}
+\usepackage{amssymb,amsfonts,amsmath, amsthm, amsbsy}
+\usepackage{caption,color,graphicx,paralist, subcaption, placeins, array, mathtools, url, mdwlist, color,tikz} 
+\usepackage[text={6.75in,9.5in},centering,letterpaper]{geometry}
+\usepackage[linktoc=all,hypertexnames=false,colorlinks=true,urlcolor=blue,linkcolor=blue,citecolor=blue]{hyperref}
+\usepackage[shortlabels]{enumitem}
+\usepackage{csquotes}
+\usetikzlibrary{decorations.pathmorphing, calc, arrows.meta}
+\newcommand*\dif{\mathop{}\!\mathrm{d}}
+\usepackage{setspace}
+
+\setlength{\parskip}{1.0ex plus0.2ex minus0.2ex}
+\setlength{\parindent}{0.0in}
+\renewcommand{\baselinestretch}{1.2}
+
+\renewcommand*{\arraystretch}{1.5}
+
+\everymath={\displaystyle}
+ \numberwithin{equation}{section}
+ 
+\usepackage[thinc]{esdiff}
+
+\renewcommand{\Re}[1]{\text{\textit{Re}}[#1]}
+\renewcommand{\Im}[1]{\text{\textit{Im}}[#1]} 
+\newcommand{\rn}{\text{Reissner-N$\ddot{\mathrm{o}}$rdstrom }}
+
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\F}{\mathbb{F}}
+ 
+\newtheorem{Theorem}{Theorem}[section]
+\newtheorem{Conjecture}[Theorem]{Conjecture}
+\newtheorem{Lemma}[Theorem]{Lemma}
+\newtheorem{Proposition}[Theorem]{Proposition}
+\newtheorem{Corollary}[Theorem]{Corollary}
+\newtheorem{Example}[Theorem]{Example}
+\newtheorem{Definition}[Theorem]{Definition}
+\newtheorem*{Notation}{Notation}
+\newtheorem{Remark}[Theorem]{Remark}
+\newtheorem{Assumption}{Assumption}
+
+\title{Notes on \textit{Atmospheric science} by Wallace and Hobbs}
+\author{Adam Bauer\thanks{Department of Physics, University of Illinois Urbana-Champaign, 1110 W Green St., Loomis Laboratory, Urbana, IL 61801}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+
+\tableofcontents 
+
+\section{Dictionary}
+\begin{Definition}[Convection]
+The process by which relatively hot fluid (and thus, less dense fluid) rises and thus causes relatively cold fluid to sink.
+\end{Definition}
+
+\begin{Definition}[Efflux]
+The rate at which a given substance exits a reservior; an outgoing flux of material.
+\end{Definition}
+
+\begin{Definition}[Gyres]
+A circular ocean flow caused from cyclonic wind systems.
+\end{Definition}
+
+\begin{Definition}[Residence time]
+Mass divided by the \textit{efflux}.
+\end{Definition}
+
+\begin{Definition}[Zonal mean]
+Mean along lines of latitude.
+\end{Definition}
+
+\section{Chapter 2: The Earth system}
+
+\subsection{Components of the Earth system}
+
+Major players in the Earth's climate system: 
+\begin{itemize}
+\item \textit{Atmospheric radiation and convection}: regulates temperature at the Earth's surface, sets limits on snow and ice cover 
+\item \textit{Stratospheric ozone}: protects biosphere from UV radiation
+\item \textit{Wind}: Regulates patterns of oceanic up-welling; determines the distribution of water that sustains the terrestrial biosphere; transports gas, spores, seeds, smoke and other lightweight things (like undergraduate alcohol tolerance) over long distances.
+\item \textit{Rain, frost, wind}: erodes the Earth's crust, wears down mountains and reshapes landscape 
+\item \textit{Ocean}: large ``thermal inertia"; major player in carbon cycle
+\item \textit{Snow and ice}: Increases Earth albedo, thus reflecting more incoming solar radiation (which has a further cooling effect) 
+\item \textit{Plants}: by recycling water into the atmosphere through their leaves, plants play a big role in summertime climate through their impact on humidity
+\item \textit{Plate tectonics}: causes volcanic eruptions, mountain shaping, and continental drift (on very long timescales, of course)
+\end{itemize}
+
+\subsubsection{Oceans}
+
+The mass of the ocean is 250x that of the atmosphere :o.
+
+\textbf{Composition and vertical structure}\\
+The density of sea water, $\sigma$, is linearly dependent on the concentration of dissolved salt, i.e., $\sigma \sim s$, if \textit{s} is the salinity (i.e., concentration of dissolved salt). The density of the ocean, $\sigma$ is a complicated function of temperature, but not a strong function of pressure, such that $\sigma = \sigma(T,s)$. 
+
+Because ocean water is saline, the temperature dependence of density is different than pure water. For fresh water, density increases as temperature increases between \textit{T} = 0 $^\circ$C and T = 4 $\circ$C, whereas in ocean water density monotonically decreases with temperature for all \textit{T}. This causes ice to float in ocean water, because ice is less dense than sea water.
+
+The ocean has an upper \textit{mixed layer}, which is mixed by wind and has a slightly lower density than the layers beneath it. Then there is the \textit{pynocline}, which locates much of the density gradient in the ocean. This density gradient \textbf{inhibits vertical mixing}, much like the temperature gradient in the tropopause inhibits vertical mixing between the troposphere and stratosphere. (This is why ozone doesn't become uniformly distributed in the troposphere.)
+
+Water parcels that aren't in contact with the surface tend to conserve salinity and temperature over long distances, so we can track where water comes from using these properties. Some notable regions of the ocean are:
+\begin{itemize}
+\item \textit{Mediterranean outflow}: warm and salty water 
+\item \textit{North Atlantic deep water (NADW)}
+\item \textit{Antarctic bottom water (AABW)}
+\end{itemize}
+
+\textbf{The ocean circulation}\\
+Two components: \textit{thermohaline} and \textit{wind-driven}. 
+
+Wind-driven dominates the upper ocean layer, whereas the deep ocean circulation is dominated by the thermohaline.
+
+\textit{(a) The wind-driven component}
+\begin{itemize}
+\item Transfers horizontal momentum from the atmosphere to the ocean via drag 
+\item By generating ocean waves, momentum gets transferred downward 
+\item Noteable feature: the west-to-east \textit{Antarctic circumpolar current}
+\end{itemize}
+
+\textit{(b) The thermohaline component}
+\begin{itemize}
+\item Deep water circulation
+\item Warm surface water travels northward and hits the polar region; sinks and becomes a deepwater current  that upwells as it travels south
+\item The major sinking regions of warm water are in Antarctica and off the coast of Greenland 
+\item See Fig. 2.7 on page 29 for a schematic 
+\end{itemize}
+
+\textit{(c) The marine biosphere}\\
+Most sunlight gets absorbed in the first few hundred meters of water -- denoted as the \textit{euphotic zone} -- this is where most of the life in the ocean resides. This life uses carbon and makes oxygen, generally. This causes the water in the uppermost layer of the ocean to be carbon depleted and oxygen rich. Hence, ocean life tends to be present in areas where there is an upwelling of deep ocean water, as it is the most carbon rich water in this sector of the ocean. (Upwelling in the ocean is generally in regions where the SSTs are anomalously cold.)
+
+\textit{(d) Sea surface temperature }\\
+The patterns of sea surface temperature (SST) is controlled by wind and radiation. 
+
+Radiation causes a strong temperature gradient between the tropics and the poles. 
+
+Wind causes zonal SST anomalies, as wind drags warm water west in the tropics and east in the mid-to-high latitudes. 
+
+The local SSTs feedback on the atmosphere; dry regions (like the Sahara desert and the American southwest) are dry because they are located near \textit{cold tongues} of the ocean. 
+
+\subsubsection{The cryosphere}
+The crysophere refers to parts of the Earth system where water is in its solid form, i.e., snow and ice.
+
+This system contributes to the thermal inertia via
+\begin{itemize}
+\item \textit{Albedo}: by reflecting solar radiation 
+\item Influencing thermohaline circulation by feeding the ocean with fresh (low salinity) water 
+\end{itemize}
+
+Antarctica and Greenland (coined \textit{continental ice sheets}) are the largest contributors to the cryosphere.
+
+\textit{How ice sheets form}: Snow falls onto the ice sheet; more snow falls, compressing the existing snow into ice; as yet more snow falls, the pressure causes the ice to spread out horizontally and shrink vertically.
+
+\textit{Sea ice} covers more area on Earth than the continental ice sheets, but is comparatively thin. The field of sea ice is more of a fractal than a continuous sheet, with individual components being dragged by wind. 
+
+The annual mean sea ice motion is dominated by the \textit{Beaufort gyre} to the north of Alaska and the \textit{transpolar drift stream} from Siberia towards Greenland.
+
+When water freezes into new ice, it rejects the salt that was previously dissolved in it. This creates a \textit{brine} of unusually high salinity sea water, which causes average salinity sea water to sink (hence causing the thermohaline circulation at the poles). This is why the main areas of water sinking is near ice sheets.
+
+The last member of the cryosphere (discussed here) is \textit{permafrost}. This is permanently frozen soil (>2 years) and is hugely important for influencing terrestrial ecology. The permafrost closely follows the 0 $^\circ$C annual mean isotherm, but does slightly extend beneath it due to seasonal snow insulation.
+
+\subsubsection{The terrestrial biosphere}
+The terrestrial biosphere is largely divided up into \textit{biomes}, which comprise of distinct collections of plants and animals. Which biome one resides in depends on 
+\begin{itemize}
+\item annual-mean temperature
+\item annual and diurnal temperature ranges
+\item annual-mean precipitation 
+\item the seasonal distributions of precipitation and cloudiness 
+\end{itemize}
+
+The biosphere feeds back on the atmosphere in a variety of ways:
+\begin{itemize}
+\item \textit{The hydrologic cycle}: In the summer when plants are abundant, incoming solar radiation gets used to (1) evaporate water and (2) fuel photosynthesis (which results in water being put into the atmosphere). In these cases, the energy is put into the atmosphere (through the water vapor) without heating the surface (i.e., is injected as a latent heat flux rather than a sensible heat flux). This is why grass covered areas are cooler than pavement.
+\item \textit{Local albedo}: snow relfects sunlight
+\item \textit{Roughness of land surface}: inhibits or enables high wind speed
+\end{itemize}
+
+\subsubsection{The Earth's crust and mantle}
+The layout of Earth's mountains, oceans and continents are primarily a result of \textit{plate tectonics} and \textit{continental drift}. 
+
+Ocean plates colliding with continental plates causes ocean plates to be \textit{subducted} (i.e., sucked underneath the continental plate) because the ocean plates are less dense. The ocean plate then becomes part of the mantle. The ocean plate is replenished where the mantle upwells into the ocean and cools, i.e., along the mid-Atlantic ridge.
+
+Collisions between plate boundaries cause volcanic activity, earthquakes, and mountain ranges.
+
+\subsubsection{Roles of various components of the Earth system in climate}
+The various atmosphere, geologic, oceanic and biospheric (?) processes described above all \textbf{feedback} on the climate system. The concept of a feedback is important in climate science and is used to characterize the impact of various processes on the global climate system. This will be the topic of future discussion.
+
+\subsection{The hydrologic cycle}
+A lot of the biosphere depends on the hydrologic cycle, i.e., the cycling of water between reserviors. Useful when discussing this topic is the concept of \textit{residence time}, which indicates how long a given water (or substance, generally) parcel remains in a reservoir. 
+
+The Earth's mantle is the largest water reservoir in the hydrologic cycle, followed by the oceans and continental ice sheets.
+
+Mathematically modeling the hydrologic cycle essentially boils down to writing down the \textit{conservation of mass flux} equations for water. To do this, one needs to identify how water leaves and enters the atmosphere. 
+
+Water is expelled from the atmosphere through precipitation, and is supplied to the atmosphere through evapotranspiration. Any additional gradient in water content can be attributed to turbulent winds carrying water vapor into or away from a given region. Hence, in the steady state, one can write the mass flux equations (over the ocean in the book) as 
+
+\begin{equation}
+\bar{P} - \bar{E} = \bar{W}
+\end{equation}
+
+where \textit{P} is the precipitation flux, \textit{E} is the evapotranspiration flux, and \textit{W} is the winds water flux. As for the water flux in the soil column, we can write 
+
+\begin{equation}
+\dfrac{dS}{dt} = P - E - T,
+\end{equation}
+where \textit{S} is the water in a given soil column and \textit{T} is a `transport flux' corresponding to rivers, etc. that take water in and out of regions. In the case of a land locked region with no rivers feeding the local water supply, the transport term can be neglected, hence enabling us to write
+\begin{equation}
+\dfrac{dS}{dt} = P - E.
+\end{equation}
+
+\subsection{The carbon cycle}
+
+This is where I left off for now! 
+
+\section{Cool stuff}
+This section is reserved for those bits of science/science history that make you go ``woah, that's really freaking cool." 
+\begin{itemize}
+\item The theory of continental drift, first proposed by Alfred Wegener in 1912, was rejected until the 1960s until magnetic fields from the ocean floor could be detected to confirm the formation of new tectonic plates (that cause drift).
+\item The transpolar drift stream was discovered by sailing an empty ship from Siberia to Greenland (i.e., across the North Pole!) whose mast could withstand the pressue of freezing. The ship was called \textit{Forward}, and resulted in the official discovery of the transpolar drift stream. The original thought to do this was after the discovery that a shipwreck in Siberia ended up in Greenland $\sim$5 years after it was lost! 
+\item Given the amount of water in the Earth’s mantle ($\sim 2 \times 10^7$ kg m$^{-2}$) and it’s efflux ($\sim 2 \times 10^{-4}$ kg m$^{-2}$ year$^{-1}$), the amount of water that’s been extracted from the mantle over the course of the Earth’s lifetime ($\sim 4.5 \times 10^9$ years) is not enough to fill the oceans! 
+\end{itemize}
+
+\end{document}
