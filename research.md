@@ -33,7 +33,7 @@ What’s the point of theory if it doesn’t hold in the real world? The wealth 
 
 # Publications
 
-**A. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity.  *The Astrophysical Journal*, 925:2, 2022. [[https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03)]([https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03)) [arXiv link.](https://arxiv.org/abs/2111.02178)
+**A. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity.  *The Astrophysical Journal*, 925:2, 2022. [[https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03)] [(arXiv link.)](https://arxiv.org/abs/2111.02178)
 
 M. Pascale, B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. Multiband photometry and photometric redshift estimation in the field of PLCK G165+67.0. In preparation, 2021.
 
