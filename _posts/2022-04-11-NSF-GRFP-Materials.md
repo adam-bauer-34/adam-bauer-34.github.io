@@ -2,8 +2,7 @@
 title: NSF GRFP Application Materials
 categories:
 - NSF GRFP
-- Atmospheric science
-- Fellowships
+- Application materials
 feature_image: "https://picsum.photos/2560/600?image=1060”
 ---
 
