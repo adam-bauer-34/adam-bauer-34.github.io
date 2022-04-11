@@ -13,7 +13,7 @@ Here are two projects that I’m currently involved with in the field of climate
 We are working to understand the arisal and persistance of heat waves with [Dr. Lucas Vargas-Zeppetello](https://vargaszeppetello.weebly.com/). Using a conceptual model originally formulated by Lucas, I’ve derived a 1D Hasselmann-like model for soil moisture dynamics with a analytically tractible nonlinearity. The strength of this model is that it decouples the temperature and moisture dynamics near the surface. We intend to use this model to explore the moments of soil moisture near the surface when forced with stochastic precipitation, and map the moisture moments to temperature moments.  This in turn will enable us to understand how the tails of the temperature PDF evolve in a warming planet, hence giving us an understanding of extreme heating events. 
 
 ### The cost of climate change 
-Secondly, we are collaborating with [Prof. Gernot Wagner](gwagner.com) to improve our understanding of the economic implications of climate change by upgrading the climate module in Gernot’s climate-economic program, [EZClimate](https://github.com/Litterman/EZClimate). We use a two-box climate emulator to capture the multiple timescales in climate warming that is neglected by most (if not all) climate-economic models. This project will result in an updated cost of carbon which can be of use to policymakers as laws such as carbon taxes are drafted. 
+We are collaborating with [Prof. Gernot Wagner](gwagner.com) to improve our understanding of the economic implications of climate change by upgrading the climate module in Gernot’s climate-economic program, [EZClimate](https://github.com/Litterman/EZClimate). We use the *transient climate respone to emissions* to emulate the global warming as a function of emissions. This project will result in an updated cost of carbon which can be of use in the public sphere to shape climate policy.
 
 # Research techniques
 
@@ -23,19 +23,19 @@ As stated above, my Ph. D. is focused on studying the Earth’s climate and how 
 
 Much of the interesting processes found in nature — such as waves, pattern formation, and feedback amplification — are dynamical processes that evolve in time and space. Mathematically, these systems boil down to systems of differential equations, often made more complicatied by nonlinearities and coupling of variables. I am continuously fascinated by such systems, and the various ways we can analyze them. 
 
-The two primary ways I tend to approach dynamical systems reseach is through rigorous analytic techniques and simulations. Analytic techniques, such as timescale analysis, perturbation theory, canard theory and others, are powerful tools that can enable us to glean the underlying dynamics of often incredibly complicated systems. On the other hand, I tend to use simulations to *inform* and *verify* our analyic approximations, as well as conduct preliminary analysis of our system before any analytics are done. Combining these two approaches often leads to fruitful, fascinating results. 
+The two primary ways I tend to approach dynamical systems reseach is through rigorous analytic techniques and simulations. Analytic techniques, such as timescale analysis, perturbation theory, canard theory and others, are powerful tools that can enable us to glean the underlying dynamics of often incredibly complicated systems. On the other hand, I tend to use simulations to *inform* and *verify* our analyic predictions, as well as conduct preliminary analysis of our system before any analytics are done. Combining these two approaches often leads to fruitful, fascinating results. 
 
 ### Data science 
 
-What’s the point of theory if it doesn’t hold in the real world? The wealth of observational, simulation, and reanalysis data available to the climate science community allows us to conduct a litany of interesting science and discover correlations between seemingly uncorrelated physical events. This sector of my research toolkit is very much in its infancy, but I’m looking forward to develop it in the future.
+What’s the point of theory if it doesn’t hold in the real world? A wealth of observational, simulation, and reanalysis data available to the climate science community allows us to conduct a litany of interesting science to verify our theoretical predictions while also prompting new theories. This sector of my research toolkit is very much in its infancy, but I’m looking forward to develop it in the future.
 
 ---
 
 # Publications
 
-**A. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity.  *The Astrophysical Journal*, 925:2, 2022. [https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03) [(arXiv link.)](https://arxiv.org/abs/2111.02178)
+M. Pascale, B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. M. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. Possible ongoing merger discovered by photometry and spectroscopy in the field of the galaxy cluster PLCK G165.7+67.0. *Submitted*, 2022. [(arXiv link.)](https://arxiv.org/abs/2203.12825)
 
-M. Pascale, B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. Multiband photometry and photometric redshift estimation in the field of PLCK G165+67.0. In preparation, 2021.
+**A. M. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity.  *The Astrophysical Journal*, 925:2, 2022. [https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03) [(arXiv link.)](https://arxiv.org/abs/2111.02178)
 
 **A. Bauer**, P. Carter. Existence of transonic solutions in the stellar wind problem with viscosity and heat conduction. *SIAM Journal on Applied Dynamical Systems*, 20:1, 2021. [https://doi.org/10.1137/20M1314240](https://doi.org/10.1137/20M1314240).
 
