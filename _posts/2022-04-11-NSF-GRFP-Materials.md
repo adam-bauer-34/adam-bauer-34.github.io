@@ -1,8 +1,8 @@
 ---
-title: NSF GRFP Application Materials
+title: My NSF GRFP Application Materials
 categories:
 - NSF GRFP
-feature_image: "https://picsum.photos/2560/600?image=872”
+feature_image: "https://picsum.photos/2560/600?image=1073"
 ---
 
 In April 2022, I was awarded a National Science Foundation Graduate Research Fellowship. My proposal outlined a project to explore the controls on heat waves using conceptual (or “phenomenological”) models. I applied under the subarea of “Physics and Astronomy - Other (specify)”, which I filled in as “Climate physics”. 
