@@ -13,13 +13,12 @@ I am a physics Ph.D. student at the University of Illinois at Urbana-Champaign, 
 **Announcements:** 
 - I was awarded a National Science Foundation Graduate Research Fellowship!
 - I was hired at Columbia Business School as a Pre-doctoral research scientist! This appointment will supplement my research assisstantship at the University of Illinois at Urbana Champaign.
-- My last ever paper in astrophysics was published in the *The Astrophysical Journal*! Check it out: [*Spherical accretion in alternative theories of gravity*](https://doi.org/10.3847/1538-4357/ac3a03)
 
 ---
 
 Here are some quick links:
 
-[My CV (last updated on 4/11/2022)](/files/Bauer_CV.pdf)
+[My CV (last updated on 5/9/2022)](/files/Bauer_CV.pdf)
 
 [My Github](https://github.com/adam-bauer-34)
 
