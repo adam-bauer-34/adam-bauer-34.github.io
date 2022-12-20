@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Adam Bauer
   author__bio: ... is interested in learning more, building connections, and doing as much good as possible. Right now, he's fixated on the climate problem, doing research at the nexus of climate science, climate economics, and climate policy. 
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/lower_profile.JPG'
 
 social:
 - {icon: "ion-logo-github", link: "https://github.com/adam-bauer-34"}
