@@ -1,78 +1,56 @@
-# Set theme
-remote_theme: daviddarnes/alembic@main
+#-------------------------------
+# General Site Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
 
-# Set plugins
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
 
-# Site settings
-url: 'https://adam-bauer-34.github.io'
-baseurl: ''
-title: 'Adam Bauer'
-description: 'Graduate Research Assistant at the University of Illinois Urbana Champaign'
-permalink: pretty
-logo: /images/logo.png
+paginate: 6
+paginate_path: "/blog/page/:num"
 
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
 
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: Bio
-  url: /about/
-- title: Research
-  url: /research/
-- title: Outreach
-  url: /outreach/
-- title: Misc
-  url: /misc/
-- title: Contact
-  url: /contact/
-
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
-
+#-------------------------------
 # Collections
 collections:
-  posts:
-    title: Posts
+  pages:
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
-# Collection settings
+# Pages Path
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
-      type: posts
     values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
+      layout: "default"
+  - scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
-      layout: page # Set the default layout for pages
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+sass:
+  sass_dir: _sass
+  style: compressed
