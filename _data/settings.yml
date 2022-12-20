@@ -43,7 +43,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Adam, graduate research fellow
+  hero__title: I'm Adam, NSF graduate research fellow
   hero__description: I am working at the nexus of climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future.
   hero__image: '/images/profile.jpg'
 
