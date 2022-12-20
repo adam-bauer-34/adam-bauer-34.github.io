@@ -45,7 +45,7 @@ social:
 hero:
   hero__title: I'm Adam, physics Ph. D. student
   hero__description: I am working at the nexus of climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future.
-  hero__image: '/images/01.jpg'
+  hero__image: '/images/headshot.jpg'
 
 
 #-------------------------------
@@ -103,7 +103,7 @@ projects__settings:
 #-------------------------------
 # Blog Section
 blog__settings:
-  blog__title: Recent Posts
+  blog__title: Recent musings
   blog__description:
 
 
