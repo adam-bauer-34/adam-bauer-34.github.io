@@ -1,5 +1,5 @@
 ---
-title: Improving climate change forecasts
+title: Improving forecasts of climate change
 date: 2022-12-21 08:01:35 +0300
 subtitle: Climate science
 image: '/images/project-images/weighted_projections.png'
