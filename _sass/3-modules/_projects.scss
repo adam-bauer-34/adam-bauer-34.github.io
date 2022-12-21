@@ -25,13 +25,14 @@
 .project__image {
   position: relative;
   display: block;
-  width: 90%;
-  height: 90%;
+  width: 100%;
+  height: 100%;
   min-height: 280px;
   border-radius: 8px;
   user-select: none;
   transform: translate(0);
   overflow: visible;
+  object-fit: scale-down;
   background-color: var(--background-alt-color);
 
   &::after {
@@ -46,7 +47,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: scale-down;
+    object-fit: fill;
     border-radius: 8px;
     pointer-events: none;
   }
