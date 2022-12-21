@@ -1,30 +1,12 @@
 ---
-title: How does risk influence the cost of carbon?
+title: How does risk influence 'optimal' climate policy?
 date: 2022-12-20 08:01:35 +0300
 subtitle: Climate economics
-image: '/images/project-2.jpg'
+image: '/images/project-figures/11-14-2022-pref-runs.png'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+## Project goal 
+We incorporate the findings from the Intergovernmental Panel on Climate Change's sixth assessment report into a financial asset pricing model that prices CO<sub>2</sub> emissions as an asset with negative returns. This framework includes an explicit representation of decision making under uncertainty and risk to be incorporated when considering 'optimal' abatement choices; put differently, in our model, policy can be made to 'hedge' against serious climate damages.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-5.jpg" loading="lazy" alt="Project">
-  </div>
-</div>
-
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+## Abstract (tentitive, working paper in preparation)
+Valuing the cost of carbon dioxide (CO<sub>2</sub>) emissions is vital in weighing viable approaches to climate policy. Conventional approaches to pricing CO<sub>2</sub> involve evaluating trade-offs between sacrificing consumption now to abate CO$_2$ emissions versus growing the economy, therefore enlarging one’s financial resources to pay for climate damages later, all within a standard Ramsey growth framework. Here, we take an alternative approach to carbon pricing by developing the Climate Asset Pricing model -- AR6 (CAP6), a financial-economic model that prices CO<sub>2</sub> emissions as an asset with negative returns. CAP6's baseline emissions trajectories, climate damage functions, climate emulator, and mitigation cost function are in line with the sixth assessment report (AR6) from the Intergovernmental Panel on Climate Change. We calibrate the economic parameters in CAP6 (such as agent risk aversion and the discount rate) to be in line with recent empirical work. We find that in our preferred discount rate term structure, CAP6 provides support for stringent mitigation of CO<sub>2</sub> emissions, with a high carbon price in the near-term that declines over time, and an 'optimal' expected warming in line with the 1.5 &deg;C target set forth in the Paris agreement. By decomposing sources of climate damages, we find that risk associated with slowed economic growth has an outsized influence on climate risk assessment in comparison to static-in-time estimates of climate damages. In a sensitivity analysis, we sample a range of discount rates and technological growth rates, and disentangle the role of each of these assumptions in determining central estimates of CAP6 output as well as their uncertainty over time. We find that central estimates of carbon prices are sensitive to assumptions around emissions projections, whereas estimates of warming, CO<sub>2</sub> concentrations, and economic damages are robust to such assumptions. We decompose the uncertainty in CO<sub>2</sub> prices, temperature rise, atmospheric CO<sub>2</sub> levels, and economic damages over time, finding that individual preferences control price uncertainty in the near term, while rates of technological change drive price uncertainty in the distant future. The influence of individual preferences on temperature rise, CO<sub>2</sub> concentrations, and economic damages is realized for longer than in the case of CO<sub>2</sub> prices owing to the consequences of early inaction. Our findings provide a theoretical underpinning for how socio-economic parameterizations influence `optimal' CO<sub>2</sub> price estimates both now and in the future. Furthermore, our work highlights the necessity of early and stringent action to mitigate CO<sub>2</sub> emissions in addressing the dangers posed by climate change.
