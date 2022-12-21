@@ -31,7 +31,7 @@
   border-radius: 8px;
   user-select: none;
   transform: translate(0);
-  overflow: hidden;
+  overflow: visible;
   background-color: var(--background-alt-color);
 
   &::after {
