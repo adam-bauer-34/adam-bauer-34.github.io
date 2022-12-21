@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A review of <em>Ten billion</em> by Stephen Emmott
+title:  A review of "Ten billion" by Stephen Emmott
 description: Mr. Emmott does his best to forecast the state of humankind and reaches a pessimistic conclusion - "we're fucked".
 date:   2022-12-19 15:01:35 +0300
 image:  '/images/blog-images/ten-billion-emmott/cover-card.JPG'
