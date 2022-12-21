@@ -60,7 +60,7 @@ mailchimp__button__text: Get updates
 # Projects Settings
 projects__settings:
   projects__title: Highlighted works
-  projects__description: Here are my most recent research projects.
+  projects__description: My research projects, in order of recency.
 
 
 #-------------------------------
@@ -104,7 +104,7 @@ projects__settings:
 # Blog Section
 blog__settings:
   blog__title: Recent musings
-  blog__description:
+  blog__description:  
 
 #-------------------------------
 # Gallery Footer Settings
