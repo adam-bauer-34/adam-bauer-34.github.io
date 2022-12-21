@@ -12,18 +12,22 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'Contact'
+      url: '/contact/'
+      
+      #submenu:
+      #- url: '/about/'
+      #  title: 'About'
+      #- url: '/contact/'
+      #  title: 'Contact'
+      #- url: '/elements/'
+      #  title: 'Elements'
 
 
 #-------------------------------
@@ -44,7 +48,7 @@ social:
 # Hero Settings
 hero:
   hero__title: I'm Adam, NSF graduate research fellow
-  hero__description: I am working at the nexus of climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future. <a href="https://ambauer.com/files/cv/Bauer_CV.pdf">Click here to check out my CV.</a>
+  hero__description: I am pursuing a Ph. D. in physics, focusing on the nexus of climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future. <a href="https://ambauer.com/files/cv/Bauer_CV.pdf">Click here to check out my CV.</a>
   hero__image: '/images/profile.jpg'
 
 
