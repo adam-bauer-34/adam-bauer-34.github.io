@@ -2,7 +2,7 @@
 title: Spherical accretion in modified theories of gravity
 date: 2022-01-31 08:01:35 +0300
 subtitle: Black hole physics
-image: '/images/project-images/pfig_theta_bondi.jpeg'
+image: '/images/project-images/pfig_theta_bondi.png'
 ---
 
 # Project goal 
