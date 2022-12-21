@@ -6,7 +6,10 @@ image: '/images/project-images/level_set.png'
 ---
 
 # Project goal 
-We rigorously construct stellar wind solutions to the Navier-Stokes equations, incorporating temperature-dependent viscocity and heat conduction, using methods from geometric singular perturbation theory. This project resulted in my first ever first-author paper. :) 
+We rigorously construct stellar wind solutions to the Navier-Stokes equations, incorporating temperature-dependent viscocity and heat conduction, using methods from geometric singular perturbation theory. This project resulted in my first ever first-author paper. :)
+
+# Collaborator
+[Paul Carter](https://www.math.uci.edu/~pacarter/).
 
 # Abstract
 The one-fluid stellar wind problem for steady, radial outflow is considered, including effects of heat conduction and viscosity. The associated nondimensionalized equations of conservation of mass, momentum, and energy are singularly perturbed in the large Reynolds number limit, and stellar wind profiles are constructed rigorously in this regime using geometric singular perturbation techniques. Transonic solutions, which accelerate from subsonic to supersonic speeds, are identified as folded saddle canard trajectories lying in the intersection of a subsonic saddle slow manifold and a supersonic repelling slow manifold, returning to subsonic speeds through a viscous layer shock, the location of which is determined by the associated far-field boundary conditions.
