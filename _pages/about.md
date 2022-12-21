@@ -15,7 +15,7 @@ I did my undergraduate studies at the University of Arizona (UArizona), where I 
   <div class="gallery">
     <img src="/images/about-images/friends.jpg" loading="lazy">
   </div>
-  <em>Out of all the things I did in undergrad, making friends was by far the most important.</em>
+  <em>Out of all the things I did in undergrad, making friends was by far the most important accomplishment.</em>
 </div>
 
 I grew up in Buffalo, New York, an upbringing that prepared me well for the cold midwestern winters. In my spare time, I rock climb. A lot. I also play chess (poorly) and try to study it as often as I can. I enjoy reading, especially books on history, economics, and philosophy, as well as really, really corny self-help books. [(Check out my book reviews if you'd like to learn more.)](https://www.ambauer.com/tags/?tag=book-review) I also listen to way too many podcasts and music across a variety of genres. I also love sports and live and die by the Buffalo Bills.
