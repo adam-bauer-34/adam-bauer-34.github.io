@@ -25,10 +25,10 @@
 .project__image {
   position: relative;
   display: block;
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: 90%;
   min-height: 280px;
-  border-radius: 0px;
+  border-radius: 8px;
   user-select: none;
   transform: translate(0);
   overflow: visible;
@@ -46,7 +46,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: scale-down;
     border-radius: 8px;
     pointer-events: none;
   }
