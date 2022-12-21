@@ -106,18 +106,18 @@ blog__settings:
   blog__title: Recent musings
   blog__description:
 
-
 #-------------------------------
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Bouldering'
-      url: '/images/footer-images/bouldering.jpeg'
-    - alt: 'Friends'
-      url: '/images/footer-images/friends.JPG'
-    - alt: 'Dog :)'
-      url: '/images/footer-images/sleepy_sash.JPG'
-
+    - alt: 'Buffalo'
+      url: '/images/footer-images/buf.JPG'
+    - alt: 'Arizona'
+      url: '/images/footer-images/az.JPG'
+    - alt: 'CU'
+      url: '/images/footer-images/cu.JPG'
+    - alt: 'New York'
+      url: '/images/footer-images/nyc.JPG'
 
 #-------------------------------
 # Footer Navigation Settings
