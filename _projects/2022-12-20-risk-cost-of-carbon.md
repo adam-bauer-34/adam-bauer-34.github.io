@@ -1,5 +1,5 @@
 ---
-title: How does risk influence 'optimal' climate policy?
+title: Financial modeling of climate risk supports stringent mitigation action
 date: 2022-12-20 08:01:35 +0300
 subtitle: Climate economics
 image: '/images/project-images/11-14-2022-pref-runs.png'
