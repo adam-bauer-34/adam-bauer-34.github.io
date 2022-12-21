@@ -41,5 +41,5 @@ I wouldn’t exactly recommend it, unless you want to buy it for your climate de
   <div class="gallery">
     <img src="/images/blog-images/ten-billion-emmott/card.JPG" loading="lazy" style="width:500px;height:600px;">
   </div>
-  <em>I thought this book would stir up some environmentalist energy, but alas, it did very little for me.</em>
+  <em>I thought "Ten billion" would stir up some urgency in my work, but alas, it did very little for me.</em>
 </div>
