@@ -13,4 +13,6 @@ We present Hubble Space Telescope WFC3-IR imaging in the fields of six apparentl
 **Keywords**: _gravitational lensing: strong_ -- _galaxies: fundamental parameters_ -- _galaxies: cluster: general_ -- _galaxies: high redshift_ -- _submillimeter: galaxies_
 
 # Publications
-**A. M. Bauer**, A. C\'ardenas-Avenda\~no, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity. _The Astrophysical Journal_, 925(2), 2022. [https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03)
+M. Pascale, B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. M. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. Possible ongoing merger discovered by photometry and spectroscopy in the field of the galaxy cluster PLCK G165.7+67.0. _The Astrophysical Journal_, 932(85), 2022. [https://doi.org/10.3847/1538-4357/ac6ce9](https://doi.org/10.3847/1538-4357/ac6ce9)
+
+B. L. Frye, M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Conselice, M. Alpaslan, **A. Bauer**, L. Busoni, D. Coe, S. H. Cohen, M. Dole, M. Donahue, I. Georgiev, R. A. Jansen, M. Limousin, R. Livermore, D. Norman, S. Rabien, R. A. Windhorst. PLCK G165.7+67.0: Analysis of a massive lensing cluster in a Hubble Space Telescope census of sub-millimeter giant arcs selected using Planck/Hershel. _The Astrophysical Journal_, 871(51), 2019. [https://doi.org/10.3847/1538-4357/aaeff7](https://doi.org/10.3847/1538-4357/aaeff7)
