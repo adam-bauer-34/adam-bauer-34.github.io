@@ -2,7 +2,7 @@
 title: Dynamical analysis of massive galaxy clusters
 date: 2019-01-21 08:01:35 +0300
 subtitle: Observational astronomy
-image: '/images/obs.png'
+image: '/images/project-images/obs.png'
 ---
 
 # Project goal 
