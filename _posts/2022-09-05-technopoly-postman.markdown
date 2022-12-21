@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A review of "Technopoly - The surrender of culture to technology" by Neil Postman
-description: Postman, in his unmistakably direct, eeirily profound, and sarcastic way, foretells of a society where technology dictates culture to consumers. And it's hard to say he's wrong.
+description: Postman, in his unmistakably direct, eeirily profound, and occasionally sarcastic way, foretells of a society where technology dictates culture to consumers. And it's hard to say he's wrong.
 date: 2022-09-05 15:01:35 +0300
 image: '/images/blog-images/technopoly-postman/cover-card.JPG'
 tags: [book-review, technology, current-affairs, philosophy]
