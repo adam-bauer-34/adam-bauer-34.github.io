@@ -11,14 +11,20 @@ I am a trained theoretical physicist and mathematician who now focuses on more "
 
 I did my undergraduate studies at the University of Arizona (UArizona), where I graduated with a B.S. in physics (_with honors_) and a B.S. in mathematics, along with a minor in astronomy and astrophysics. I worked on numerous projects during my undergraduate years, including projects related to understanding massive galaxy clusters, the fluid mechanics of the solar wind, and the inner horizon(s) of black holes. I won the Excellence in Undergraduate Research Award from the UArizona College of Science for my contributions to each of these fields.
 
-I grew up in Buffalo, New York, an upbringing that prepared me well for the cold midwestern winters. In my spare time, I rock climb. A lot. I also play chess (poorly) and try to study it as often as I can. I enjoy reading, especially books on history, economics, and philosophy, as well as really, really corny self-help books. [You're welcome to check out my book reviews if you'd like to learn more.]() I also listen to way too many podcasts and music across a variety of genres. I also love sports and live and die by the Buffalo Bills.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/about-images/friends.jpg" loading="lazy">
+  </div>
+</div>
+
+I grew up in Buffalo, New York, an upbringing that prepared me well for the cold midwestern winters. In my spare time, I rock climb. A lot. I also play chess (poorly) and try to study it as often as I can. I enjoy reading, especially books on history, economics, and philosophy, as well as really, really corny self-help books. [(Check out my book reviews if you'd like to learn more.)](https://www.ambauer.com/tags/?tag=book-review) I also listen to way too many podcasts and music across a variety of genres. I also love sports and live and die by the Buffalo Bills.
 
 > Go bills.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/about-images/bouldering.JPEG" loading="lazy">
+    <img src="/images/about-images/chess.png" loading="lazy">
+    <img src="/images/about-images/ryan.JPG" loading="lazy">
   </div>
 </div>
