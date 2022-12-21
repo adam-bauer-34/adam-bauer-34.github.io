@@ -28,4 +28,5 @@ I grew up in Buffalo, New York, an upbringing that prepared me well for the cold
     <img src="/images/about-images/chess.png" loading="lazy">
     <img src="/images/about-images/ryan.JPG" loading="lazy">
   </div>
+  <em>(From the left.) Heading out for a lovely day of bouldering outside NYC; playing chess at a <a href="https://www.literarybookbar.com/">local Champaign Urbana book bar</a>; seeing Porter Robinson live at Red Rocks Ampitheatre with fellow EDM junkie Ryan.</em>
 </div>
