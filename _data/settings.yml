@@ -129,16 +129,14 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
-    - url: '/about/'
-      title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
