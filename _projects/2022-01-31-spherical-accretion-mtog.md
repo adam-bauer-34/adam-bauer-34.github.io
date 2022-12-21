@@ -14,7 +14,7 @@ The groundbreaking image of the black hole at the center of the M87 galaxy has r
 **Keywords**: _accretion, accretion disks_ -- _black hole physics_ -- _gravitation_ -- _modified theories of gravity_
 
 # Publication
-**A. M. Bauer**, A. C\'ardenas-Avenda\~no, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity. \textit{The Astrophysical Journal}, 925(2), 2022. [https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03)
+**A. M. Bauer**, A. C\'ardenas-Avenda\~no, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity. _The Astrophysical Journal_, 925(2), 2022. [https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03)
 
 # Project code
 The code used in this project can be found on my Github: [https://github.com/adam-bauer-34/black-hole-shadow-mtog](https://github.com/adam-bauer-34/black-hole-shadow-mtog)
