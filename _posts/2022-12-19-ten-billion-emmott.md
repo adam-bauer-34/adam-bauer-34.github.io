@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Ten billion" by Stephen Emmott
+title: A review of "Ten billion" by Stephen Emmott
 description: Mr. Emmott does his best to forecast the state of humankind and reaches a pessimistic conclusion - "we're fucked".
-date:   2022-12-19 15:01:35 +0300
-image:  '/images/blog-images/ten-billion-emmott/cover-card.JPG'
-tags:   [book-review, economics, current-affairs]
+date: 2022-12-19 15:01:35 +0300
+image: '/images/blog-images/ten-billion-emmott/cover-card.JPG'
+tags: [book-review, economics, current-affairs]
 ---
 
 Stephen Emmott, the head of Computational Science at Microsoft Research, as well as a Visiting Professor at Oxford University and University College London, lays out in _Ten billion_ the various problems that face the world today. (And by today, I mean 2013, when the book was written.) This book is a relatively quick read (I read it in about 2 hours), primarily owing to the fact there is about one paragraph or so per page. In fact, numerous pages contain just a single sentence, a structure I’ll return to later on.
