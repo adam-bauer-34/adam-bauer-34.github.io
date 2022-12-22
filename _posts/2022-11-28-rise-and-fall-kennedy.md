@@ -17,7 +17,21 @@ From here, _The rise and fall_ delves into European history, the truly striking 
 
 I use the word _relative_ in the above because it is absolutely central to one component of Mr. Kennedy’s thesis: the world order is shaped by the relative strength of each contending member. This might seem intuitive to studied individuals of world history and power, but to me, a newcomer to the topic, I thought this was a deep and instructive point. Britain didn’t become a world power in the Industrial Age because she was strong in absolute terms necessarily, but rather because she was strong relative to each of her contemporaries she had to compete with economically and, in many cases, militarily. Turning to the present time, the decline of United States power in world affairs isn't because of her absolute fall in economic power (the US economy is still massive in absolute terms), but _relative_ to her contemporaries, the US just isn't as dominant as it was post-World War II. 
 
-Continuing with the scope of the book, it moves next to a discussion of the Industrial Age leading up to World War II, which was as compelling as the pre-Industrial Age discussion outlined above. Of particular note is Mr. Kennedy’s discussion of the Russian failure in the Crimean War, especially when compared to the Vietnam War and its consequences for American power in the 1960s later on in the book. (This part of the book also had a fair amount of fist-pumping to be done by American readers; just look at America’s war potential in comparison to the rest of the world in 1937 on p. 332!)
+Continuing with the scope of the book, it moves next to a discussion of the Industrial Age leading up to World War II, which was as compelling as the pre-Industrial Age discussion outlined above. Of particular note is Mr. Kennedy’s discussion of the Russian failure in the Crimean War, especially when compared to the Vietnam War and its consequences for American power in the 1960s later on in the book. (This part of the book also had a fair amount of fist-pumping to be done by American readers; just look at America’s war potential in comparison to the rest of the world in 1937 below. The title of the "sleeping giant" of World War II was indeed earned!)
+
+<div class="table-container">
+  <table>
+    <tr><th>Country</th><th>Relative War Potential</th><th>
+    <tr><td>United States</td><td>41.7%</td><td>
+    <tr><td>Germany</td><td>14.4%</td><td>
+    <tr><td>USSR</td><td>14.0%</td><td>
+    <tr><td>U.K.</td><td>10.2%</td><td>
+    <tr><td>France</td><td>4.2%</td><td>
+    <tr><td>Japan</td><td>3.5%</td><td>
+    <tr><td>Italy</td><td>2.5%</td><td>
+  </table>
+  <em>Relative war potential of the Powers in 1937. Taken from "The rise and fall of the great powers" by Paul Kennedy, p. 332.</em>
+</div>
 
 The discussion of the world economic and power balance post-World War II outlines the “coming of the bipolar world,” where two great superpowers emerge: the United States and the Soviet Union. This part of the book was more familiar to me, although it is still absolutely striking and worrisome just how many nuclear weapons permeated the world at this time, and how these numbers aren’t exactly coming down in the world we currently live in.
 
