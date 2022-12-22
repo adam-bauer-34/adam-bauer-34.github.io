@@ -23,7 +23,7 @@ Take for example one of the central ideas in the book: that completing a task us
 
 When computers are asked to “find the best” of something, they tend to do so by “optimizing” (i.e., by finding the highest possible value of) what’s called an “objective function.” The “objective function” has some number of inputs, and the inputs that optimize the “objective function” are the “optimal” inputs.
 
-To illustrate this point, think about nutrition, and more specifically diet (this removes the exercise “variable”). Your overall health is the “objective function.” If asked, a computer will “optimize” nutrition for you: it'll derive, based on some set of preferences (are you trying to gain muscle or lose weight?) the optimal protein, carbohydrate, and fat intake. So, in principle, if you eat those amounts of macronutrients, you’d be a very healthy individual. 
+To illustrate this point, think about nutrition, and more specifically diet (this removes the exercise “variable”). Your overall health is the “objective function.” If asked, a computer will “optimize” nutrition for you: it'll derive, based on some set of preferences (are you trying to gain muscle or lose weight?) the optimal protein, carbohydrate, and fat intake. So, in principle, if you eat those amounts of macronutrients, you’d be a very healthy individual in the eyes of the computer (and perhaps, in your own eyes as well).
 
 This comes with limitations, but the underlying idea is the key bit: if you give a computer a problem to solve, it will (1) define an objective function and (2) find the set of inputs that results in the maximum of said objective function. 
 
