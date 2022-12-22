@@ -52,13 +52,12 @@ hero:
   hero__description: I am pursuing a Ph. D. in physics, focusing on the nexus of climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future. <a href="https://ambauer.com/files/cv/Bauer_CV.pdf">Click here to check out my CV.</a>
   hero__image: '/images/profile.jpg'
 
-
 #-------------------------------
 # Newsletter
-mailchimp: # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Your email address...
-mailchimp__button__text: Get updates
+#mailchimp: # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+#mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+#mailchimp__input__text: Your email address...
+#mailchimp__button__text: Get updates
 
 
 #-------------------------------
@@ -139,12 +138,11 @@ footer_menu__settings:
     - title: 'Contact'
       url: '/contact/'
 
-
 #-------------------------------
 # Contact Settings
-contact:
-  email: adammb4@illinois.edu # Add your form_id
-  description: Easily email me by filling out the form below. I'd love to connect! # Add a description of your form
+#contact:
+#  email: adammb4@illinois.edu # Add your form_id
+#  description: Easily email me by filling out the form below. I'd love to connect! # Add a description of your form
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
