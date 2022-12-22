@@ -13,5 +13,5 @@ Review in progress.
   <div class="gallery">
     <img src="/images/blog-images/rise-and-fall-kennedy/card.JPG" loading="lazy" style="width:500px;height:600px;">
   </div>
-  <em>A truly iconic work gets an iconic Pok&eacute;mon card. Unfortunately it's quite creased, as I fell asleep numerous times reading this book. No hard feelings, Paul!</em>
+  <em>A truly iconic work gets an iconic Pok&eacute;mon card. Unfortunately it's quite creased, as I fell asleep numerous times reading this book. No hard feelings, Mr. Kennedy!</em>
 </div>
