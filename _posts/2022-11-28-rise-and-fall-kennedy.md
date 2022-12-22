@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A review of "The rise and fall of the great powers" by Paul Kennedy
-description: In over 500 pages, Mr. Kennedy puts into perspective the modern world power and economic landscape into the context of the last 500 years of world history. The payoff? Nailing about 60% of what would come next.
+description: In over 500 pages, Mr. Kennedy puts the world power and economic landscape into the context of the last 500 years of world history, and prognosticates what will come next.
 date: 2022-11-28 15:01:35 +0300
 image: '/images/blog-images/rise-and-fall-kennedy/cover-card.JPG'
 tags: [book-review, economics, world-powers, war]
