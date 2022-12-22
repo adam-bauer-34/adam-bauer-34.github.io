@@ -1,5 +1,5 @@
 ---
-title: Mathematically constructing the solar wind
+title: Rigorously constructing the solar wind
 date: 2021-02-18 08:01:35 +0300
 subtitle: Nonlinear dynamical systems
 image: '/images/project-images/level_set.png'
