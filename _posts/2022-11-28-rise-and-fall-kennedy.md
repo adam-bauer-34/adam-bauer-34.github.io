@@ -21,14 +21,14 @@ Continuing with the scope of the book, it moves next to a discussion of the Indu
 
 <div class="table-container">
   <table>
-    <tr><th>Country</th><th>Relative War Potential</th><th>
-    <tr><td>United States</td><td>41.7%</td><td>
-    <tr><td>Germany</td><td>14.4%</td><td>
-    <tr><td>USSR</td><td>14.0%</td><td>
-    <tr><td>U.K.</td><td>10.2%</td><td>
-    <tr><td>France</td><td>4.2%</td><td>
-    <tr><td>Japan</td><td>3.5%</td><td>
-    <tr><td>Italy</td><td>2.5%</td><td>
+    <tr><th>Country</th><th>Relative War Potential</th></tr>
+    <tr><td>United States</td><td>41.7%</td></tr>
+    <tr><td>Germany</td><td>14.4%</td></tr>
+    <tr><td>USSR</td><td>14.0%</td></tr>
+    <tr><td>U.K.</td><td>10.2%</td></tr>
+    <tr><td>France</td><td>4.2%</td></tr>
+    <tr><td>Japan</td><td>3.5%</td></tr>
+    <tr><td>Italy</td><td>2.5%</td></tr>
   </table>
   <em>Relative war potential of the Powers in 1937. Taken from "The rise and fall of the great powers" by Paul Kennedy, p. 332.</em>
 </div>
