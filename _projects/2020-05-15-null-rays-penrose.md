@@ -1,5 +1,5 @@
 ---
-title: Investigating the spacetime near rays of light
+title: Investigating the spacetime of light
 date: 2020-05-15 08:01:35 +0300
 subtitle: General relativity
 image: '/images/project-images/wormhole.png'
