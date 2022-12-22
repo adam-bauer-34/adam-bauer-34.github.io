@@ -33,8 +33,9 @@ When I arrived in New York City for a semester-long stay at Columbia Business Sc
 
 “There are a lot of young, beautiful women in NYC that are looking for partners,” she told me. Wide-eyed, I asked her, “What would I do to meet them?” 
 
-> Download _Hinge_ and get to work. 
-she responded.
+> Download _Hinge_ and get to work,
+
+was her response.
 
 Dating in the modern age is practically indivisible from dating apps. On its own, one might argue, this isn’t necessarily a bad thing. How else would you find as many possible singles in your immediate vicinity and try to go on dates with the best of them?
 
