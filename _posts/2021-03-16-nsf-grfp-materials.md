@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  NSF Graduate Research Fellowship Materials
-description: Here are my materials and reviewer comments on both my NSF Graduate Research Fellowship applications.
+description: Here are my materials and reviewer comments on both of my NSF Graduate Research Fellowship applications.
 date:   2021-03-16 15:01:35 +0300
 image:  '/images/blog-images/nsf/typewriter.jpg'
 tags:   [NSF-GRFP, applications, materials]
