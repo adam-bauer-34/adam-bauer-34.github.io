@@ -7,7 +7,7 @@ image: '/images/blog-images/rise-and-fall-kennedy/cover-card.JPG'
 tags: [book-review, economics, world-powers, war]
 ---
 
-World history is a daunting subject. Given that there are many different lenses through which one can view a given event, its often difficult to gain perspective and see the “big picture” of the world, its dynamics, and how the world order has been shaped over thousands of years of human history. This has been exacerbated in recent times, with a constant onslaught of news, headlines, and fill-in-the-blanks-“for our lives” obfuscating what is the signal among the noise.
+World history is a daunting subject. Given that there are many different lenses through which one can view a given event, it's often difficult to gain perspective and see the “big picture” of the world, its dynamics, and how the world order has been shaped over thousands of years of human history. This has been exacerbated in recent times, with a constant onslaught of news, headlines, and fill-in-the-blanks-“for our lives” obfuscating what is the signal among the noise.
 
 Enter Paul Kennedy’s _The rise and fall of the great powers_. A truly Herculean work of over 500 pages, _The rise and fall_ sets out to place modern world economic and power struggles into the context of the last ~500 years of world history. (Note that this book was published in 1987, so “modern” here is relative.)
 
