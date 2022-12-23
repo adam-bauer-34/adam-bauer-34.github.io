@@ -17,15 +17,15 @@ The key assumption of _longtermism_ is the following: we, as a species, are very
 
 To put this in perspective, _homo sapiens_ have been around for about 300,000 years, so we’ve got 700,000 years to go. If we maintain current levels of population, this immediately implies that the number of people that will exist in the future outnumber those in the present by ten thousand to one. And that’s not accounting for the possibility that we live beyond the usual 1 million years lifespan due to technological advancement or spreading out among the stars. If that happens, then the present-day population is even younger relative to our expected lifespan of perhaps millions of years.
 
-This simple population-level analysis has serious ethical implications. Mr. MacAskill argues that these future people — the grandchildren of your grandchildren of your grandchildren’s grandchildren— are horribly disenfranchised. Their wellbeing obviously matters, and yet, they have no say in present-day matters, despite the present inexorably influencing their (upcoming) lives. 
+This simple population-level analysis has serious ethical implications. As Mr. MacAskill lays out, these future people — the grandchildren of your grandchildren of your grandchildren’s grandchildren— are horribly disenfranchised. Their wellbeing obviously matters, and yet, they have no say in present-day matters, despite the present inexorably influencing their (upcoming) lives. 
 
-Take climate change. If our actions today lead to a planet that is 5 &deg;C warmer (which is unlikely, but could happen if certain countries backtrack their emission reduction commitments or we hit a few climate tipping points), then people in the future would inherit a world where their wellbeing is practically predetermined to be lower than generations past. And there would only be the present to blame. 
+Take climate change. If our actions today lead to a planet that is 5 &deg;C warmer (which is unlikely, but could happen if certain countries backtrack their emission reduction commitments or we hit a few [climate tipping points](https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system)), then people in the future would inherit a world where their wellbeing is practically predetermined to be lower than generations past. And there would only be the present to blame. 
 
-In view of this injustice, Mr. MacAskill argues that much more attention and money needs to be allocated to quantifying longterm, potentially species-threatening risks, and coming up with mitigation strategies. Among his chief concerns are existential risks, such as the risk of nuclear conflict; value lock-in, or the notion that a governing body could freeze moral progress in a less-than-desirable state; climate change (duh); stagnation, or a protracted halt of economic growth; and the variety of risks associated with artificial general intelligence. 
+In view of this injustice, Mr. MacAskill argues that much more attention and money needs to be allocated to quantifying longterm, potentially species-threatening risks, and formulating mitigation strategies. Among his chief concerns are existential risks, such as nuclear conflict; value lock-in, or the notion that a governing body could freeze moral progress in a less-than-desirable state; climate change (duh); stagnation, or a protracted halt of economic growth; and the variety of risks associated with artificial general intelligence. 
 
 A few of these risks should be self-evident. Nuclear war has had the capacity to end humankind as we know it since the United States bombed Hiroshima and Nagasaki ([unless you hide under a school desk](https://www.history.com/news/duck-cover-drills-cold-war-arms-race), in which case, you’ll be safe). The Cold War and Russia’s invasion of Ukraine and subsequent [resumption of nuclear brinkmanship](https://www.heritage.org/defense/commentary/putins-dangerous-nuclear-brinkmanship-ukraine) has only reminded us of this. Major climate action is already [under way in the United States](https://www.project-syndicate.org/commentary/inflation-reduction-act-global-clean-energy-race-by-gernot-wagner-2022-08) and much of the world in response to climate risk. Prolonged stagnation would result in a modern day [Dark Age](https://en.wikipedia.org/wiki/Dark_Ages_(historiography)). Suffice to say, we should do all we can to prevent these risks from materializing.
 
-The risks posed by [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI) and its potential for value lock-in, however, were surprising to me. Admittedly, I’m a novice when it comes to AI; before _What we owe the future_, AI was just something that gives me scary good ad recommendations while I’m playing chess [online](https://www.chess.com/home). But now, I see why there is so much discussion around the topic, especially AGI. AGI could, on one hand, spur unprecedented economic growth, while on the other could lock-in our values and, erm, kind of take over the world. Risky business indeed.
+The risks posed by [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI) and its potential for value lock-in, however, were surprising to me. Admittedly, I’m a novice when it comes to AI; before _What we owe the future_, AI was just something that gives me scary good ad recommendations while I’m [playing chess online](https://www.chess.com/home). But now, I see why there is so much discussion around the topic, especially AGI. AGI could, on one hand, spur unprecedented economic growth, while on the other could lock-in our values and, erm, kind of take over the world. Risky business indeed.
 
 So what can we do about all of this? Mr. MacAskill gives four suggestions that individuals can do. 
 
@@ -34,25 +34,32 @@ So what can we do about all of this? Mr. MacAskill gives four suggestions that i
 3. Spread good ideas;
 4. Have children.
 
-To point one, Mr. MacAskill lays out a variety of non-profits that are incredibly cost-effective vehicles for doing good. I found this quick calculation compelling: Suppose you are a median income American. If you are a vegetarian, you abate 0.8 tons of CO<sub>2<\sub> from ever being emitted into the atmosphere. Good work. Now, if you were to donate 10% of your income (about $3,000) to the [Clean Air Task Force](https://www.catf.us/), you can reasonably expect to abate 3000 tons of CO<sub>2<\sub> from the atmosphere. Perhaps one really can have their steak and eat it too. More information on such “effective” charities can be found at [givingwhatwecan.org](https://www.givingwhatwecan.org/).
+To point one, Mr. MacAskill lays out a variety of non-profits that are incredibly cost-effective vehicles for doing good. I found this quick calculation compelling: Suppose you are a median income American. If you are a vegetarian, you abate 0.8 tons of CO<sub>2</sub> from ever being emitted into the atmosphere. Good work. Now, if you were to donate 10% of your income (about $3,000) to the [Clean Air Task Force](https://www.catf.us/), you can reasonably expect to abate 3000 tons of CO<sub>2</sub> from the atmosphere per year. Perhaps one really can have their steak and eat it too. More information on more “effective” charities can be found at [givingwhatwecan.org](https://www.givingwhatwecan.org/).
 
 Points two and three are self-explanatory. Go vote. Don’t be a conspiracy theorist. Repeat.
 
 The final point I found shocking. Doesn’t having kids increase energy, water, and food demand, and thus drive up carbon emissions? Thus causing more climate change? Wouldn’t this be bad for the future?
 
-To understand why having kids is a moral good for the future, two things should be considered. First is that having kids lowers the risk along other dimensions unrelated to climate change; for example, having children directly contributes to lowering the risk of stagnation, as stagnating population numbers can lead to slowed economic growth.
+To understand why having kids is a moral good for the future, two things should be considered. First is that having kids lowers the risk along other dimensions unrelated to climate change; for example, having children directly contributes to lowering the risk of stagnation, as stagnating population numbers can lead to protracted slow economic growth.
 
 But the second reason why having children is a moral good according to Mr. MacAskill ties into the _intuition of neutrality_, which in slogan form goes like this:
 
 > We’re morally positive about making people happy, but morally neutral about making happy people. 
 >
-><cite>- Jan Narvenson<\cite>
+><cite>- Jan Narvenson</cite>
 
-Essentially, if you raise your kids to be morally responsible, considerate, and kind people, perhaps even with careers aligned with doing the most good they can, it’s undeniable that the benefits _outweigh_ the costs of having them in the first place. This doesn’t even consider the knock-on effects of their impact on others, which, broadly speaking, are positive. 
+To make this point compelling beyond the arguments of population ethics (read the book for more), you'd have to prove that your potential child, beyond reasonable doubt, would be happy. So, Mr. MacAskill commissioned a team of pyschologists to carry out a survey, and found that the vast majority of people, if they consider their lives in sum, would prefer to have lived than never have lived at all. This is especially true if you live in a rich country, as self-reported life satisfaction scales linearly with GDP per capita, shown below:
 
-Mr. MacAskill even points to psychology survey data saying that the vast majority of people, if they consider their lives in sum, would prefer to have lived than never have lived at all. Take home point: people prefer living to not, and if you have the option to bring another human into existence, you’re contributing to future wellbeing in just about as direct a way as you can. 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/blog-images/what-we-owe-macaskill/life-satis-gdpc.JPG" loading="lazy" style="width:700px;height:500px;">
+  </div>
+  <em>Self-reported life satisfaction against GDP per capita. Taken from "What we owe the future" by William MacAskill, p. 202 (his Figure 9.1).</em>
+</div>
 
-This is especially true if you live in a rich country, where self-reported happiness scales linearly with GDP per capita.
+Take home point: people prefer living to not, and are generally happy given a sufficient level of wealth. Thus, if you have the option to bring another human into existence, you’re contributing to future wellbeing in just about as direct a way as you can. 
+
+Essentially, if you raise your kids to be morally responsible, considerate, and kind people, Mr. MacAskill shows that the benefits _outweigh_ the costs of having them in the first place. This is especially true if you think about your children having children, and so on. Having a child is, essentially, starting a chain reaction of happiness generation. And this doesn’t even consider the knock-on effects of their impact on others, which, Mr. MacAskill argues, are undeniably going to be a net-positive .
 
 _What we owe the future_ is an valuable contribution to the ethics literature, and is written to be broadly accessible. I personally found it to be incredibly enlightening, as it details the risks that face us — as well as future us — fluently and skillfully. There’s even two chapters dedicated to hardcore population ethics buried in here for the philosophically inclined (hand up). I’d highly recommend this book to anyone who is concerned with how we can make the world, as well as the future world, a better place.
 
@@ -61,11 +68,9 @@ _What we owe the future_ is an valuable contribution to the ethics literature, a
 **Pok&eacute;mon card for this book**: I was quite excited to read this book; I had heard Mr. MacAskill on [numerous](https://open.spotify.com/episode/3MhhpUIn9BDvJVDwA6UbYN?si=41bc6c4284ff4394) [podcasts](https://open.spotify.com/episode/6RDHeBv0piiR2PekXUQBPZ?si=3af63486dbb54db0) and love his work. Thus, it earned the holographic card from my last pack: a sick-ass Banette with its Elite Four trainer, Phoebe, in the background.
 
 
-
-
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/blog-images/ten-billion-emmott/card.JPG" loading="lazy" style="width:500px;height:600px;">
+    <img src="/images/blog-images/what-we-owe-macaskill/card.JPG" loading="lazy" style="width:500px;height:600px;">
   </div>
-  <em>I thought "Ten billion" would stir up some urgency in my work, but alas, it did very little for me.</em>
+  <em>A cool card for an ever cooler book.</em>
 </div>
