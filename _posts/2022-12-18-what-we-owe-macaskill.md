@@ -57,9 +57,9 @@ To make this point compelling beyond the arguments of population ethics (read th
   <em>Self-reported life satisfaction against GDP per capita. Taken from "What we owe the future" by William MacAskill, p. 202 (his Figure 9.1).</em>
 </div>
 
-Take home point: people prefer living to not, and are generally satisfied with their lives, given a sufficient level of wealth. Thus, if you have the option to bring another human into existence, you’re contributing to future wellbeing in just about as direct a way as you can. 
+Take home point: people prefer living to not, and are generally satisfied with their lives, especially if they possess a sufficient level of wealth. Thus, if you have the option to bring another human into existence, you’re contributing to future wellbeing in just about as direct a way as you can. The benefits _outweigh_ the costs.
 
-If you raise your kids to be morally responsible, considerate, and kind people, Mr. MacAskill shows that the benefits _outweigh_ the costs of having them in the first place. This is especially true if you think about your children having children, and so on. Having a child is, essentially, starting a chain reaction of happiness generation. And this doesn’t even consider the knock-on effects of their impact on others, which, Mr. MacAskill argues, are undeniably going to be a net-positive.
+This is especially true if you think about your children having children, and so on. Having a child is, essentially, starting a chain reaction of happiness generation. And this doesn’t even consider the knock-on effects of their impact on others, which, Mr. MacAskill argues, are undeniably going to be a net-positive.
 
 _What we owe the future_ is an valuable contribution to the ethics literature, and is written to be broadly accessible. I personally found it to be incredibly enlightening, as it details the risks that face us — as well as future us — fluently and skillfully. There’s even two chapters dedicated to hardcore population ethics buried in here for the philosophically inclined (hand up). I’d highly recommend this book to anyone who is concerned with how we can make the world, as well as the future world, a better place.
 
