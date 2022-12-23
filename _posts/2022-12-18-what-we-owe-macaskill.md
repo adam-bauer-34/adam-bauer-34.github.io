@@ -34,7 +34,7 @@ So what can we do about all of this? Mr. MacAskill gives four suggestions that i
 3. Spread good ideas;
 4. Have children.
 
-To point one, Mr. MacAskill lays out a variety of non-profits that are incredibly cost-effective vehicles for doing good. I found this quick calculation compelling: Suppose you are a median income American. If you are a vegetarian, you abate 0.8 tons of CO<sub>2</sub> from ever being emitted into the atmosphere per year. Good work. Now, if you were to donate 10% of your income (about $3,000) to the [Clean Air Task Force](https://www.catf.us/), you can reasonably expect to abate 3000 tons of CO<sub>2</sub> from the atmosphere per year. Perhaps one really can have their steak and eat it too. (More information on more “effective” charities can be found at [givingwhatwecan.org](https://www.givingwhatwecan.org/).)
+To point one, Mr. MacAskill lays out a variety of non-profits that are incredibly cost-effective vehicles for doing good. I found this quick calculation compelling: Suppose you are a median income American. If you are a vegetarian, you abate 0.8 tons of CO<sub>2</sub> from ever being emitted into the atmosphere per year. Good work. Now, if you were to donate 10% of your income (about $3,000) to the [Clean Air Task Force](https://www.catf.us/), you can reasonably expect to abate 3000 tons of CO<sub>2</sub> from the atmosphere per year. Perhaps one really can have their steak and eat it too. (More information on “effective” charities can be found at [givingwhatwecan.org](https://www.givingwhatwecan.org/).)
 
 Points two and three are self-explanatory. Go vote. Don’t be a conspiracy theorist. Repeat.
 
