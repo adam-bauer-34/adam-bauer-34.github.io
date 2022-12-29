@@ -65,5 +65,5 @@ Taken as a whole, _Dopamine nation_ was a lovely read. I enjoyed how Dr. Lembke 
   <div class="gallery">
     <img src="/images/blog-images/dopamine-nation-lembke/card.JPG" loading="lazy" style="width:500px;height:600px;">
   </div>
-  <em>I thought "Ten billion" would stir up some urgency in my work, but alas, it did very little for me.</em>
+  <em>Strong as steel.</em>
 </div>
