@@ -2,7 +2,7 @@
 layout: post
 title: When a side project takes on a life of its own
 description: Ramblings on my new working paper, and the true value of planning.
-date: 2022-12-19 15:01:35 +0300
+date: 2023-02-22 15:01:35 +0300
 image: '/images/blog-images/when-side-projcs/ocean.jpg'
 tags: [ramblings, climate-economics, life]
 ---
