@@ -3,7 +3,7 @@ layout: post
 title: Comments on the Fed's new climate-related risk policy
 description: The Fed is requiring the consideration of climate risk for large instutiions. That's a good thing, only if firms do it right.
 date: 2023-02-03 15:01:35 +0300
-image: '/images/blog-images/when-side-projcs/ocean.jpg'
+image: '/images/blog-images/fed-comments/finance.jpg'
 tags: [climate-risk, climate-economics, us-policy]
 ---
 
