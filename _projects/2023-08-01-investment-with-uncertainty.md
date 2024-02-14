@@ -1,5 +1,5 @@
 ---
-title: Incorporating uncertainty into abatement investment modeling
+title: How delayed learning about climate uncertainty impacts decarbonization investment strategies
 date: 2022-12-21 08:01:35 +0300
 subtitle: Climate economics
 image: '/images/project-images/2023-6-26-_mc_a_inveffort.png'
@@ -11,4 +11,4 @@ Most state-of-the-art climate-economic models assume a frictionless economy as i
 I am very pleased to have been hired as a short-term consultant at the World Bank Climate Change Group while this work is being completed!
 
 # Collaborators
-[Florent John McIsaac](https://florent.mcisaac.fr/), [Stephane Hallegatte](https://www.worldbank.org/en/about/people/s/stephane-hallegatte), and [Adrien Vogt-Schilb](https://www.linkedin.com/in/adrien-vogt-schilb/).
+[Florent John McIsaac](https://florent.mcisaac.fr/) and [Stephane Hallegatte](https://www.worldbank.org/en/about/people/s/stephane-hallegatte).

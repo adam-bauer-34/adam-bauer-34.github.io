@@ -49,7 +49,7 @@ social:
 # Hero Settings
 hero:
   hero__title: I'm Adam, NSF graduate research fellow
-  hero__description: I am pursuing a Ph. D. in physics, focusing on the nexus of climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future. <a href="https://ambauer.com/files/cv/Bauer_CV.pdf">Click here to check out my CV.</a>
+  hero__description: I am pursuing a Ph. D. in physics, focusing on the nexus of climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future. Check out my <a href="https://ambauer.com/files/cv/Bauer_CV.pdf">CV.</a> or <a href="https://ambauer.com/files/cv/Bauer_Resume.pdf">resume.</a> here.
   hero__image: '/images/profile.jpg'
 
 #-------------------------------
