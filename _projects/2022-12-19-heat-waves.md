@@ -18,4 +18,5 @@ Heat waves are broadly expected to increase in severity and frequency under clim
 [Cristi Proistosescu](https://cdds-at-uiuc.github.io/team/cristi-proistosescu/) and [Lucas Vargas Zeppetello](https://vargaszeppetello.weebly.com/).
 
 # Presentations
-American Geophysical Union Fall Meeting, December 2022 (Poster); University of California San Diego Climate Journal Club, May 2022.
+- American Geophysical Union Fall Meeting, December 2022 (Poster)
+- University of California San Diego Climate Journal Club, May 2022.

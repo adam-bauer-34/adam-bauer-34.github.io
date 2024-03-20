@@ -12,4 +12,4 @@ The Intergovernmental Panel on Climate Change (IPCC) recently advised in their s
 [Abby McDonnell](https://cdds-at-uiuc.github.io/team/abby-mcdonnell/) and [Cristi Proistosescu](https://cdds-at-uiuc.github.io/team/cristi-proistosescu/).
 
 # Presentations
-American Geophysical Union Fall Meeting, December 2022 (Poster, presented by [Abby McDonnell](https://cdds-at-uiuc.github.io/team/abby-mcdonnell/)).
+- American Geophysical Union Fall Meeting, December 2022 (Poster, presented by [Abby McDonnell](https://cdds-at-uiuc.github.io/team/abby-mcdonnell/)).
