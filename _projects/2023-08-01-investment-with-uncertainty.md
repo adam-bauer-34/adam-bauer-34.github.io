@@ -20,3 +20,7 @@ _Citation_: Bauer, A. M., F. McIsaac, S. Hallegatte. How Delayed Learning about 
 
 # Collaborators
 [Florent John McIsaac](https://florent.mcisaac.fr/) and [Stephane Hallegatte](https://www.worldbank.org/en/about/people/s/stephane-hallegatte).
+
+# Project code
+
+All source code for this project can be found on [my Github](https://github.com/adam-bauer-34/BMH-delayed-learning-reprod).
