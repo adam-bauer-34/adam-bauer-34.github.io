@@ -1,5 +1,5 @@
 ---
-title: How delayed learning about climate uncertainty impacts decarbonization investment strategies
+title: How Delayed Learning about Climate Uncertainty Impacts Decarbonization Investment Strategies
 date: 2022-12-21 08:01:35 +0300
 subtitle: Climate economics
 image: '/images/project-images/2023-6-26-_mc_a_inveffort.png'
