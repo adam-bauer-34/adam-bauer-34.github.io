@@ -8,7 +8,10 @@ tags: [climate-risk, cap6, opinion]
 ---
 
 *By: Adam Michael Bauer and Gernot Wagner*
+
 *Originally published at [Green Central Banking](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/?utm_source=linkedin&utm_medium=social&utm_campaign=news)*.
+
+---
 
 By now, it’s no secret that climate change is altering the economic and financial landscape. An increasing number of jurisdictions around the world are [pricing carbon](https://carbonpricingdashboard.worldbank.org/), and the United States is embarking on a massive [green industrial policy experiment](https://www.project-syndicate.org/commentary/inflation-reduction-act-global-clean-energy-race-by-gernot-wagner-2022-08) that could hand out upwards of a [trillion dollars’](https://home.treasury.gov/news/featured-stories/the-inflation-reduction-acts-benefits-and-costs#:~:text=In%20March%20of%202023%2C%20researchers,fiscal%20cost%20at%20%241.2%20trillion.) worth of subsidies over the next decade. Much of these efforts are framed around meeting the Paris Agreement global average warming target of “well below” 2 °C, with further efforts being made to limit global warming to 1.5 °C above pre-industrial temperatures.
 
@@ -53,5 +56,7 @@ Second, [as many others have advocated for](https://gwagner.com/sec/), climate-r
 Finally, we would advocate that climate change is, fundamentally, [an issue of risk management](https://www.aeaweb.org/articles?id=10.1257/jel.51.3.838). And while it is true that tradeoffs abound, we must ensure that our financial system is robust to the worst climate change has to offer, just as we would with any other risky asset class. 
 
 It is far past time to view carbon dioxide emissions themselves – not just the capital that generates them – as an investment, one that does societal harm and needs to be hedged against. Our work, ultimately, puts this reality front and center, and should motivate regulators to heed the warning that climate scientists have been arguing on behalf of for decades.
+
+---
 
 *Adam Michael Bauer is a physics Ph.D. candidate and US National Science Foundation Graduate Research Fellow at the University of Illinois Urbana-Champaign. He is also a consultant at the World Bank Group’s climate change division. He works at the nexus between climate science and economics, with a particular focus on climate-related risk. Gernot Wagner is a climate economist at Columbia Business School. He is co-author of Climate Shock and author of Geoengineering: the Gamble.*
