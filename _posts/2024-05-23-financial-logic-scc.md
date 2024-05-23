@@ -7,7 +7,7 @@ image: '/images/blog-images/green-central-banking/gcb.jpg'
 tags: [climate-risk, cap6, opinion]
 ---
 
-*By: Adam Michael Bauer and Gernot Wagner*
+*By: Adam Michael Bauer and [Gernot Wagner](gwagner.com)*
 
 *Originally published at [Green Central Banking](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/?utm_source=linkedin&utm_medium=social&utm_campaign=news)*.
 
