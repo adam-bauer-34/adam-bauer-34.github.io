@@ -3,8 +3,8 @@ layout: post
 title: Use financial logic to price carbon emissions
 description: It is far past time to view carbon dioxide emissions themselves - not just the capital that generates them - as an investment, one that does societal harm.
 date: 2023-12-14 15:01:35 +0300
-image: '/images/blog-images/green-central-banking/gcb-logo.png'
-tags: [climate-risk, cap6, climate-economics]
+image: '/images/blog-images/green-central-banking/gcb.jpg'
+tags: [climate-risk, cap6, opinion]
 ---
 
 *By: Adam Michael Bauer and Gernot Wagner*
