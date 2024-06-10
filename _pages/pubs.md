@@ -7,7 +7,7 @@ image:
 
 *Ordered by recency. A superscript 'x' implies I was the primary advisor of the student throughout the project. If you cannot access any of the articles, [please reach out to me](https://www.ambauer.com/contact/).*
 
-## Peer-reviewed research articles
+# Peer-reviewed research articles
 
 **Bauer, A. M.**, C. Proistosescu, G. Wagner. Carbon Dioxide as a Risky Asset. *Climatic Change*, 177(72), 2024. [Publisher's link.](https://link.springer.com/article/10.1007/s10584-024-03724-3) [Preprint version.](/files/papers/cap6/BPW_CarbonDioxideRiskyAsset_ClimChange_FINAL.pdf) (Previously CESifo Working Paper No. 10278 and Columbia CEEP Working Paper No. 23.)
 
@@ -26,7 +26,7 @@ McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. Does discounting 'h
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. Soil moisture modulation of midlatitude heat waves. *Earth ArXiv*, 2023. [Link to article.](https://eartharxiv.org/repository/view/5009/)
 
 ## Policy briefs and commentary
-**Bauer, A. M.**, D. C. Lafferty, K. Schwarzwald, C. Proistosescu, G. Wagner. Comments on "Principles for Climate-Related Financial Risk Management for Large Financial Institutions". Docket No. OP-1793, The Federal Reserve, 2023. [Link to PDF.](/files/papers/fed/BLSPW_Comments.pdf)
+**Bauer, A. M.**, D. C. Lafferty, K. Schwarzwald, C. Proistosescu, G. Wagner. Comments on "Principles for Climate-Related Financial Risk Management for Large Financial Institutions". Docket No. OP-1793, The Federal Reserve, 2023. [Link to PDF.](/files/reports/fed/BLSPW_FedClimateRiskComment.pdf)
 
 ## Popular Press
 **Bauer, A. M.**, G. Wagner. Using financial logic to price carbon emissions. *Green Central Banking*, 2024. [Link to article.](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/)
