@@ -9,7 +9,7 @@ image:
 
 ## Peer-reviewed research articles
 
-**Bauer, A. M.**, C. Proistosescu, G. Wagner. Carbon Dioxide as a Risky Asset. *Climatic Change*, 177(72), 2024. [Publisher's link.](https://link.springer.com/article/10.1007/s10584-024-03724-3). [Preprint version.](/files/papers/cap6/BPW_CarbonDioxideRiskyAsset_ClimChange_FINAL.pdf). (Previously CESifo Working Paper No. 10278 and Columbia CEEP Working Paper No. 23.)
+**Bauer, A. M.**, C. Proistosescu, G. Wagner. Carbon Dioxide as a Risky Asset. *Climatic Change*, 177(72), 2024. [Publisher's link.](https://link.springer.com/article/10.1007/s10584-024-03724-3) [Preprint version.](/files/papers/cap6/BPW_CarbonDioxideRiskyAsset_ClimChange_FINAL.pdf) (Previously CESifo Working Paper No. 10278 and Columbia CEEP Working Paper No. 23.)
 
 *In press*:
 - [Yale Climate Connections](https://yaleclimateconnections.org/2023/04/drastic-climate-action-is-the-best-course-for-economic-growth-new-study-finds/)
