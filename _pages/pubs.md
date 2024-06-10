@@ -40,4 +40,6 @@ Pascale, M., B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. M. Bauer**, E
 
 **Bauer, A. M.**, P. Carter. Existence of transonic solutions in the stellar wind problem with viscosity and heat conduction. *SIAM Journal on Applied Dynamical Systems*, 20(1), 2021. [Link to article.](https://epubs.siam.org/doi/10.1137/20M1314240)
 
+**Bauer, A. M.**, B. Frye. THELI Reduction Software: A write up for inexperienced data reducers. 2019. [Link to article.](https://www.cloudynights.com/topic/679713-write-up-for-inexperienced-theli-users/)
+
 Frye, B. L., M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Conselice, M. Alpaslan, **A. Bauer**, L. Busoni, D. Coe, S. H. Cohen, M. Dole, M. Donahue, I. Georgiev, R. A. Jansen, M. Limousin, R. Livermore, D. Norman, S. Rabien, R. A. Windhorst. PLCK G165.7+67.0: Analysis of a massive lensing cluster in a Hubble Space Telescope census of sub-millimeter giant arcs selected using Planck/Hershel. *The Astrophysical Journal*, 871(51), 2019. [Link to article.](https://iopscience.iop.org/article/10.3847/1538-4357/aaeff7)
