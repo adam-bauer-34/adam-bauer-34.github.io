@@ -18,22 +18,22 @@ image:
 - [Semafor Net Zero Newsletter](https://www.semafor.com/newsletter/05/08/2024/semafor-net-zero-a-tipping-point-for-power?utm_source=nowshare&utm_medium=climate&utm_campaign=flagshipnumbered4#e)
 - [Green Central Banking](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/?utm_source=linkedin&utm_medium=social&utm_campaign=news)
 
-## Working papers
+# Working papers
 McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. Does discounting 'hot' climate models improve the predictive skill of climate model ensembles? *ESS Open Archive*, 2024. [Link to article.](https://essopenarchive.org/users/783710/articles/940865-does-discounting-hot-climate-models-improve-the-predictive-skill-of-climate-model-ensembles)
 
 **Bauer, A. M.**, F. McIsaac, S. Hallegatte. How Delayed Learning about Climate Uncertainty Impacts Decarbonization Investment Strategies. *World Bank Policy Research Working Paper No. 10473*, The World Bank, Washington DC, 2024. [Link to article.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099829103282438373/idu1f2d86d77127091490d1a6df1dc342f15d10b)
 
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. Soil moisture modulation of midlatitude heat waves. *Earth ArXiv*, 2023. [Link to article.](https://eartharxiv.org/repository/view/5009/)
 
-## Policy briefs and commentary
+# Policy briefs and commentary
 **Bauer, A. M.**, D. C. Lafferty, K. Schwarzwald, C. Proistosescu, G. Wagner. Comments on "Principles for Climate-Related Financial Risk Management for Large Financial Institutions". Docket No. OP-1793, The Federal Reserve, 2023. [Link to PDF.](/files/reports/fed/BLSPW_FedClimateRiskComment.pdf)
 
-## Popular Press
+# Popular Press
 **Bauer, A. M.**, G. Wagner. Using financial logic to price carbon emissions. *Green Central Banking*, 2024. [Link to article.](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/)
 
 **Bauer, A. M.** Merging Physics and Economics for Climate Policy. *University of Illinois Department of Physics Research Highlight*, 2023. [Link to article.](https://physics.illinois.edu/research/highlights/climatemodelling)
 
-## Past works in astrophysics, mathematics, and otherwise
+# Past works in astrophysics, mathematics, and otherwise
 Pascale, M., B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. M. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. Possible ongoing merger discovered by photometry and spectroscopy in the field of the galaxy cluster PLCK G165.7+67.0. *The Astrophysical Journal*, 932(85), 2022. [Link to article.](https://iopscience.iop.org/article/10.3847/1538-4357/ac6ce9/meta)
 
 **Bauer, A. M.**, A. Cárdenas-Avendaño, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity. *The Astrophysical Journal*, 925(2), 2022. [Link to article.](https://iopscience.iop.org/article/10.3847/1538-4357/ac3a03)
