@@ -9,6 +9,6 @@ tags: [climate-risk, climate-economics, us-policy]
 
 I spearheaded a set of comments on the Federal Reserve's new "Principles for Climate-Related Financial Risk Mangaement for Large Financial Institutions" (Docket No. OP--1793) along with some close collaborators. The upshot: large financial institutions should absolutely take into account climate-related risk, but they should be especially careful (i) to properly downscale climate models, and (ii) to fully integrate over all sources of risk in the climate-economic system.
 
-Our fully commentary can be found [here](https://www.ambauer.com/files/reports/BLSPW_FedClimateRiskComment.pdf).
+Our fully commentary can be found [here](https://www.ambauer.com/files/reports/fed/BLSPW_FedClimateRiskComment.pdf).
 
 Citation: Bauer, A. M, D. C. Lafferty, K. Schwarzwald, C. Proistosescu, G. Wagner. Comments on "Principles for Climate-Related Financial Risk Mangaement for Large Financial Institutions". *Docket No. OP--1793*, The Federal Reserve (3 February 2023).

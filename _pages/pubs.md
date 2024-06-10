@@ -19,7 +19,7 @@ image:
 - [Green Central Banking](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/?utm_source=linkedin&utm_medium=social&utm_campaign=news)
 
 ## Working papers
-McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. Does discounting 'hot' climate models improve the predictive skill of climate model ensembles? *ESS Open Archive*, 2024. [Link to article.](https://essopenarchive.org/users/783710/articles/940865-does-discounting-hot-climate-models-improve-the-predictive-skill-of-climate-model-ensembles)\
+McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. Does discounting 'hot' climate models improve the predictive skill of climate model ensembles? *ESS Open Archive*, 2024. [Link to article.](https://essopenarchive.org/users/783710/articles/940865-does-discounting-hot-climate-models-improve-the-predictive-skill-of-climate-model-ensembles)
 
 **Bauer, A. M.**, F. McIsaac, S. Hallegatte. How Delayed Learning about Climate Uncertainty Impacts Decarbonization Investment Strategies. *World Bank Policy Research Working Paper No. 10473*, The World Bank, Washington DC, 2024. [Link to article.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099829103282438373/idu1f2d86d77127091490d1a6df1dc342f15d10b)
 
