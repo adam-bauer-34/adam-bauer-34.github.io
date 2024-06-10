@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Adam Bauer
+title: Adam Michael Bauer
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Adam is a Ph. D. student at the University of Illinois at Urbana Champaign.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -16,6 +16,8 @@ menu__settings:
       url: '/about/'
     - title: 'Projects'
       url: '/projects/'
+    - title: 'Publications'
+      url: '/pubs/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Contact'
@@ -33,7 +35,7 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Adam Bauer
+  author__name: Adam Michael Bauer
   author__bio: ... is interested in learning more, building connections, and doing as much good as possible. Right now, he's fixated on the climate problem, doing research at the nexus of climate science, climate economics, and climate policy. 
   author__avatar: '/images/lower_profile.JPG'
 
@@ -133,6 +135,8 @@ footer_menu__settings:
       url: '/about/'
     - title: 'Projects'
       url: '/projects/'
+    - title: 'Publications'
+      url: '/pubs/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Contact'
