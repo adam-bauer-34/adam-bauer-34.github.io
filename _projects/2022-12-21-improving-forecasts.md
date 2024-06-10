@@ -2,7 +2,7 @@
 title: Does discounting 'hot' climate models improve the predictive skill of climate model ensembles?
 date: 2022-12-21 08:01:35 +0300
 subtitle: Climate science
-image: '/images/project-images/weighted_projections.png'
+image: '/images/project-images/regional_wo_precip_titles.png'
 ---
 
 # Project goal 
