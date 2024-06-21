@@ -12,11 +12,12 @@ image:
 **Bauer, A. M.**, C. Proistosescu, G. Wagner. Carbon Dioxide as a Risky Asset. *Climatic Change*, 177(72), 2024. [Publisher's link.](https://link.springer.com/article/10.1007/s10584-024-03724-3) [Preprint version.](/files/papers/cap6/BPW_CarbonDioxideRiskyAsset_ClimChange_FINAL.pdf) (Previously CESifo Working Paper No. 10278 and Columbia CEEP Working Paper No. 23.)
 
 *In press*:
-- [Yale Climate Connections](https://yaleclimateconnections.org/2023/04/drastic-climate-action-is-the-best-course-for-economic-growth-new-study-finds/)
-- [Jerusalem Post](https://www.jpost.com/environment-and-climate-change/article-739316)
+- [*Yale Climate Connections*](https://yaleclimateconnections.org/2023/04/drastic-climate-action-is-the-best-course-for-economic-growth-new-study-finds/)
+- [*Jerusalem Post*](https://www.jpost.com/environment-and-climate-change/article-739316)
 - [UIUC Physics Research Highlight](https://physics.illinois.edu/research/highlights/climatemodelling)
-- [Semafor Net Zero Newsletter](https://www.semafor.com/newsletter/05/08/2024/semafor-net-zero-a-tipping-point-for-power?utm_source=nowshare&utm_medium=climate&utm_campaign=flagshipnumbered4#e)
-- [Green Central Banking](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/?utm_source=linkedin&utm_medium=social&utm_campaign=news)
+- [*Semafor* Net Zero Newsletter](https://www.semafor.com/newsletter/05/08/2024/semafor-net-zero-a-tipping-point-for-power?utm_source=nowshare&utm_medium=climate&utm_campaign=flagshipnumbered4#e)
+- [*Green Central Banking*](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/?utm_source=linkedin&utm_medium=social&utm_campaign=news)
+- [Cited in *The New York Times*](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html?unlocked_article_code=1.1U0.yMjT.ca0e93qLXO-B&smid=url-share)
 
 # Working papers
 McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. Does discounting 'hot' climate models improve the predictive skill of climate model ensembles? *ESS Open Archive*, 2024. [Link to article.](https://essopenarchive.org/users/783710/articles/940865-does-discounting-hot-climate-models-improve-the-predictive-skill-of-climate-model-ensembles)
