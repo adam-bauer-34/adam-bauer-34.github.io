@@ -8,7 +8,7 @@ image:
 *Ordered by recency. A superscript 'x' implies I was the primary advisor of the student throughout the project. If you cannot access any of the articles, [please reach out to me](https://www.ambauer.com/contact/).*
 
 # Peer-reviewed research articles
-McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. Does discounting 'hot' climate models improve the predictive skill of climate model ensembles? *Earth's Future*, 12(10), 2024.
+McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does Discounting 'Hot' Climate Models Improve the Predictive Skill of Climate Model Ensembles? *Earth's Future*, 12(10), 2024. [Publisher's link.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004844) [Preprint version.](/files/papers/model-weighting/MBP-ToWhatExtent-EarthsFuture-Final.pdf)
 
 **Bauer, A. M.**, C. Proistosescu, G. Wagner. Carbon Dioxide as a Risky Asset. *Climatic Change*, 177(72), 2024. [Publisher's link.](https://link.springer.com/article/10.1007/s10584-024-03724-3) [Preprint version.](/files/papers/cap6/BPW_CarbonDioxideRiskyAsset_ClimChange_FINAL.pdf) (Previously CESifo Working Paper No. 10278 and Columbia CEEP Working Paper No. 23.)
 
