@@ -27,5 +27,4 @@ _Citation_: Bauer, A. M., S. Hallegatte, F. McIsaac. The Timing versus Allocatio
 [Florent John McIsaac](https://florent.mcisaac.fr/) and [Stephane Hallegatte](https://www.worldbank.org/en/about/people/s/stephane-hallegatte).
 
 # Project code
-
-All source code for this project can be found on [my Github](https://github.com/adam-bauer-34/BHM-pol-econ-reprod).
+All source code for this project can be found on [my Github](https://github.com/adam-bauer-34/BHM-pol-econ-reprod) or via the [World Bank Reproducible Research Repository](https://reproducibility.worldbank.org/index.php/catalog/217).
