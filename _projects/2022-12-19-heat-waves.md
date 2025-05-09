@@ -1,7 +1,7 @@
 ---
 title: Soil moisture modulation of midlatitude heat waves
 date: 2022-12-19 08:01:35 +0300
-subtitle: Climate science
+subtitle: R&R at Journal of Climate
 image: '/images/project-images/10-11-2022-3ps.png'
 ---
 
