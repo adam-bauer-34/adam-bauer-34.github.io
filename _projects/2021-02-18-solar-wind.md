@@ -1,7 +1,7 @@
 ---
 title: Rigorously constructing the solar wind
 date: 2021-02-18 08:01:35 +0300
-subtitle: Nonlinear dynamical systems
+subtitle: SIAM Journal on Applied Dynamical Systems
 image: '/images/project-images/level_set.png'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Decarbonization Investment Strategies in an Uncertain Climate
 date: 2022-12-21 08:01:35 +0300
-subtitle: Climate economics
+subtitle: Earth's Future
 image: '/images/project-images/2023-6-26-_mc_a_inveffort.png'
 ---
 

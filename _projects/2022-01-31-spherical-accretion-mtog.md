@@ -1,7 +1,7 @@
 ---
 title: Spherical accretion in alternative theories of gravity
 date: 2022-01-31 08:01:35 +0300
-subtitle: Black hole physics
+subtitle: The Astrophysical Journal
 image: '/images/project-images/pfig_theta_bondi.png'
 ---
 
