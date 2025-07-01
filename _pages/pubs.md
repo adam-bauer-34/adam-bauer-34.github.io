@@ -28,7 +28,7 @@ McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. Soil moisture modulation of midlatitude heat waves. *Earth ArXiv*, 2023. [Link to article.](https://eartharxiv.org/repository/view/5009/)
 
 # Policy briefs and commentary
-**Bauer, A. M.**, S. Hallegatte, F. McIsaac. *When the Best is the Enemy of the Good: Minimizing the Impact of Political Constraints on Climate Policy Costs*. E-Axes Forum Policy Brief, 2025. [Link to PDF.](/files/reports/eaxes/BHM-BestEnemyGood-EAxes.pdf)
+**Bauer, A. M.**, S. Hallegatte, F. McIsaac. *When the Best is the Enemy of the Good: Minimizing the Impact of Political Constraints on Climate Policy Costs*. E-Axes Forum Policy Brief, 2025. [Link to PDF.](/files/reports/eaxes/BHM_PB_25.pdf)
 
 **Bauer, A. M.**, D. C. Lafferty, K. Schwarzwald, C. Proistosescu, G. Wagner. Comments on "Principles for Climate-Related Financial Risk Management for Large Financial Institutions". Docket No. OP-1793, The Federal Reserve, 2023. [Link to PDF.](/files/reports/fed/BLSPW_FedClimateRiskComment.pdf)
 
