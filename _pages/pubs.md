@@ -8,7 +8,7 @@ image:
 *Ordered by recency. A superscript 'x' implies I was the primary advisor of the student throughout the project. If you cannot access any of the articles, [please reach out to me](https://www.ambauer.com/contact/).*
 
 # Peer-reviewed research articles
-**Bauer, A. M.**, F. McIsaac, S. Hallegatte. Decarbonization Investment Strategies in an Uncertain Climate. *Earth's Future*, 13(5), 2025. [Publisher's link](). [Preprint version.](/files/papers/decarb-uncertain-climate/BMH-EarthsFuture-Accepted.pdf) (Previously World Bank Policy Research Working Paper No. 10743.)
+**Bauer, A. M.**, F. McIsaac, S. Hallegatte. Decarbonization Investment Strategies in an Uncertain Climate. *Earth's Future*, 13(5), 2025. [Publisher's link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005851?af=R). [Preprint version.](/files/papers/decarb-uncertain-climate/BMH-EarthsFuture-Accepted.pdf) (Previously World Bank Policy Research Working Paper No. 10743.)
 
 McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does Discounting 'Hot' Climate Models Improve the Predictive Skill of Climate Model Ensembles? *Earth's Future*, 12(10), 2024. [Publisher's link.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004844) [Preprint version.](/files/papers/model-weighting/MBP-ToWhatExtent-EarthsFuture-Final.pdf)
 
