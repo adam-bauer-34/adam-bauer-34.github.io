@@ -2,7 +2,7 @@
 title: The Timing versus Allocation Trade-off in Politically Constrained Climate Policies
 date: 2022-12-21 08:01:35 +0300
 subtitle: R&R at Environmental and Resource Economics
-image: '/images/project-images/pe_inv.png'
+image: '/images/project-images/2025-7-14-simp-abar.png'
 ---
 
 # Project goal 
