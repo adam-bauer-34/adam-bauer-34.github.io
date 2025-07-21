@@ -2,7 +2,7 @@
 title: Optimal Allocation of Abatement Effort under Political Constraints
 date: 2022-12-21 08:01:35 +0300
 subtitle: R&R at Environmental and Resource Economics
-image: '/images/project-images/2025-7-14-simp-abar.png'
+image: '/images/project-images/pol.jpeg'
 ---
 
 # Project goal 

@@ -2,7 +2,7 @@
 title: Decarbonization Investment Strategies in an Uncertain Climate
 date: 2022-12-21 08:01:35 +0300
 subtitle: Earth's Future
-image: '/images/project-images/2025-4-10-simp.png'
+image: '/images/project-images/inv.jpeg'
 ---
 
 # Project goal 
