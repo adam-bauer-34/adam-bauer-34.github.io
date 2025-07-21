@@ -2,7 +2,7 @@
 # Site Settings
 title: Adam Michael Bauer
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Adam is a Ph. D. student at the University of Illinois at Urbana Champaign.
+description: Adam is a postdoctoral researcher at the University of Chicago.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -50,8 +50,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Adam, NSF graduate research fellow
-  hero__description: I am pursuing a Ph. D. in physics, focusing on the nexus of climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future. Check out my <a href="https://ambauer.com/files/cv/Bauer_CV.pdf">CV</a> here.
+  hero__title: Adam Michael Bauer, Postdoc @ UChicago
+  hero__description: I am a postdoctoral researcher in the University of Chicago's Department of Geosphysical Sciences & the Climate Systems Engineering Initiative. I study climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future, and possible ways we can address them. Check out my <a href="https://ambauer.com/files/cv/Bauer_CV.pdf">CV</a> here.
   hero__image: '/images/profile.jpg'
 
 #-------------------------------
@@ -110,7 +110,7 @@ projects__settings:
 # Blog Section
 blog__settings:
   blog__title: Recent musings
-  blog__description:  
+  blog__description: Thoughts that deserved more than a text to a friend.
 
 #-------------------------------
 # Gallery Footer Settings

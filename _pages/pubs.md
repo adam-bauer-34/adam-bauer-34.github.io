@@ -8,6 +8,8 @@ image:
 *Ordered by recency. A superscript 'x' implies I was the primary advisor of the student throughout the project. If you cannot access any of the articles, [please reach out to me](https://www.ambauer.com/contact/).*
 
 # Peer-reviewed research articles
+**Bauer, A. M.**, F. McIsaac, S. Hallegatte. Decarbonization Investment Strategies in an Uncertain Climate. *Earth's Future*, 13(5), 2025. [Publisher's link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005851?af=R). [Preprint version.](/files/papers/decarb-uncertain-climate/BMH-EarthsFuture-Accepted.pdf) (Previously World Bank Policy Research Working Paper No. 10743.)
+
 McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does Discounting 'Hot' Climate Models Improve the Predictive Skill of Climate Model Ensembles? *Earth's Future*, 12(10), 2024. [Publisher's link.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004844) [Preprint version.](/files/papers/model-weighting/MBP-ToWhatExtent-EarthsFuture-Final.pdf)
 
 **Bauer, A. M.**, C. Proistosescu, G. Wagner. Carbon Dioxide as a Risky Asset. *Climatic Change*, 177(72), 2024. [Publisher's link.](https://link.springer.com/article/10.1007/s10584-024-03724-3) [Preprint version.](/files/papers/cap6/BPW_CarbonDioxideRiskyAsset_ClimChange_FINAL.pdf) (Previously CESifo Working Paper No. 10278 and Columbia CEEP Working Paper No. 23.)
@@ -23,11 +25,11 @@ McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does
 # Working papers
 **Bauer, A. M.**, S. Hallegatte, F. McIsaac. The Timing versus Allocation Trade-off in Politically Constrained Climate Policies. *World Bank Policy Research Working Paper No. 10971*, The World Bank, Washington DC, 2024. [Link to article.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099144211072445400/idu166da20581c28314e5619c6512a33b683eb58)
 
-**Bauer, A. M.**, F. McIsaac, S. Hallegatte. How Delayed Learning about Climate Uncertainty Impacts Decarbonization Investment Strategies. *World Bank Policy Research Working Paper No. 10473*, The World Bank, Washington DC, 2024. [Link to article.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099829103282438373/idu1f2d86d77127091490d1a6df1dc342f15d10b)
-
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. Soil moisture modulation of midlatitude heat waves. *Earth ArXiv*, 2023. [Link to article.](https://eartharxiv.org/repository/view/5009/)
 
 # Policy briefs and commentary
+**Bauer, A. M.**, S. Hallegatte, F. McIsaac. *When the Best is the Enemy of the Good: Minimizing the Impact of Political Constraints on Climate Policy Costs*. E-Axes Forum Policy Brief, 2025. [Link to PDF.](/files/reports/eaxes/BHM_PB_25.pdf)
+
 **Bauer, A. M.**, D. C. Lafferty, K. Schwarzwald, C. Proistosescu, G. Wagner. Comments on "Principles for Climate-Related Financial Risk Management for Large Financial Institutions". Docket No. OP-1793, The Federal Reserve, 2023. [Link to PDF.](/files/reports/fed/BLSPW_FedClimateRiskComment.pdf)
 
 # Popular Press
