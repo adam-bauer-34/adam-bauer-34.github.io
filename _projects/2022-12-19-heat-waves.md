@@ -18,6 +18,9 @@ By forcing our Hasselmann-like model for soil moisture with stochastic precipita
 # Collaborators
 [Cristi Proistosescu](https://cdds-at-uiuc.github.io/team/cristi-proistosescu/) and [Lucas Vargas Zeppetello](https://vargaszeppetello.weebly.com/).
 
+# Project code
+All source code for this project can be found on [my Github](https://github.com/adam-bauer-34/BVZP-SM-Tex-SMACM-reprod/).
+
 # Presentations
 - American Geophysical Union Fall Meeting, December 2022 (Poster)
 - University of California San Diego Climate Journal Club, May 2022.
