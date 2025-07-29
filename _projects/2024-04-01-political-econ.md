@@ -21,7 +21,7 @@ Despite commitments to address climate change, governments face political challe
 # Working paper and citation
 [Link to full paper.](/files/papers/pe/BHM-Pol-Econ-FINAL.pdf) (Previously, this paper was circulated as [World Bank Policy Research Working Paper No. 10941](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099144211072445400/idu166da20581c28314e5619c6512a33b683eb58))
 
-_Citation_: Bauer, A. M., S. Hallegatte, F. McIsaac. Optimal Allocation of Abatement Effort under Political Constraints: The Economic Cost of Delaying Sectoral and Economy-wide Climate Policies. Forthcoming at *Environmental and Resource Economics*, 2025..
+_Citation_: Bauer, A. M., S. Hallegatte, F. McIsaac. Optimal Allocation of Abatement Effort under Political Constraints: The Economic Cost of Delaying Sectoral and Economy-wide Climate Policies. Forthcoming at *Environmental and Resource Economics*, 2025.
 
 # Collaborators
 [Florent John McIsaac](https://florent.mcisaac.fr/) and [Stephane Hallegatte](https://www.worldbank.org/en/about/people/s/stephane-hallegatte).
