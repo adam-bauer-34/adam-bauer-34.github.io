@@ -23,6 +23,8 @@ McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does
 - [Cited in *The New York Times*](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html?unlocked_article_code=1.1U0.yMjT.ca0e93qLXO-B&smid=url-share)
 
 # Working papers
+**Bauer, A. M.**, C. Proistosescu, K. K. Droegemeier. Learning Climate Sensitivity from Future Observations, Fast and Slow. *arXiv Preprint*, 2025. [Link to preprint.](https://arxiv.org/abs/2507.15767)
+
 **Bauer, A. M.**, S. Hallegatte, F. McIsaac. The Timing versus Allocation Trade-off in Politically Constrained Climate Policies. *World Bank Policy Research Working Paper No. 10971*, The World Bank, Washington DC, 2024. [Link to article.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099144211072445400/idu166da20581c28314e5619c6512a33b683eb58)
 
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. Soil moisture modulation of midlatitude heat waves. *Earth ArXiv*, 2023. [Link to article.](https://eartharxiv.org/repository/view/5009/)
