@@ -8,6 +8,8 @@ image:
 *Ordered by recency. A superscript 'x' implies I was the primary advisor of the student throughout the project. If you cannot access any of the articles, [please reach out to me](https://www.ambauer.com/contact/).*
 
 # Peer-reviewed research articles
+**Bauer, A. M.**, S. Hallegatte, F. McIsaac. Optimal Allocation of Abatement Effort Under Political Constraints: The Economic Cost of Delaying Sectoral and Economy-Wide Climate Policies. *Environmental and Resource Economics*, 2025. [Publisher's link](https://link.springer.com/article/10.1007/s10640-025-01029-2). [Preprint version](/files/papers/pe/BHM-Pol-Econ-FINAL.pdf). (Previously World Bank Policy Research Working Paper No. 10971.)
+
 **Bauer, A. M.**, F. McIsaac, S. Hallegatte. Decarbonization Investment Strategies in an Uncertain Climate. *Earth's Future*, 13(5), 2025. [Publisher's link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005851?af=R). [Preprint version.](/files/papers/decarb-uncertain-climate/BMH-EarthsFuture-Accepted.pdf) (Previously World Bank Policy Research Working Paper No. 10743.)
 
 McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does Discounting 'Hot' Climate Models Improve the Predictive Skill of Climate Model Ensembles? *Earth's Future*, 12(10), 2024. [Publisher's link.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004844) [Preprint version.](/files/papers/model-weighting/MBP-ToWhatExtent-EarthsFuture-Final.pdf)
@@ -24,8 +26,6 @@ McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does
 
 # Working papers
 **Bauer, A. M.**, C. Proistosescu, K. K. Droegemeier. Learning Climate Sensitivity from Future Observations, Fast and Slow. *arXiv Preprint*, 2025. [Link to preprint.](https://arxiv.org/abs/2507.15767)
-
-**Bauer, A. M.**, S. Hallegatte, F. McIsaac. The Timing versus Allocation Trade-off in Politically Constrained Climate Policies. *World Bank Policy Research Working Paper No. 10971*, The World Bank, Washington DC, 2024. [Link to article.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099144211072445400/idu166da20581c28314e5619c6512a33b683eb58)
 
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. Soil moisture modulation of midlatitude heat waves. *Earth ArXiv*, 2023. [Link to article.](https://eartharxiv.org/repository/view/5009/)
 
