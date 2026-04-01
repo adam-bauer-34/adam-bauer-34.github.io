@@ -1,4 +1,3 @@
-Last edited: 4/1/2026, 5:25 PM CST
 ---
 layout: page
 title: Publications
