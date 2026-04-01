@@ -1,3 +1,4 @@
+Last edited: 4/1/2026, 4:50 PM CST
 ---
 layout: page
 title: Contact
@@ -9,4 +10,4 @@ If you'd like to discuss anything found on this website, please feel free to rea
 
 **Email address**: ambauer [at] uchicago [dot] edu
 
-**Office**: Ryerson Laboratory, Rm. 150
+**Office**: Searle Chemistry Lab, Rm. 207

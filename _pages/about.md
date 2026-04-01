@@ -1,3 +1,4 @@
+Last edited: 4/1/2026, 5:24 PM CST
 ---
 layout: page
 title: About
@@ -5,18 +6,25 @@ permalink: /about/
 image: '/images/big_profile.jpg'
 ---
 
-I'm Adam Michael Bauer, postdoctoral researcher at the Univeristy of Chicago's Department of Geophysical Sciences and the Climate Systems Engineering Initiative (CSEi). I am jointly advised by [B. B. Cael](https://geosci.uchicago.edu/people/b-b-cael/) and [David Keith](https://davidkeith.earth). My work leverages insights from climate science and economics to guide sound decision-making about climate policy under uncerainty. [Check out my CV if you want more information on my research and academic background.](https://www.ambauer.com/files/cv/Bauer_CV.pdf)
+I'm Adam Michael Bauer, postdoctoral researcher at the Univeristy of Chicago's Institute for Climate and Sustainable Growth and the Climate Systems Engineering Initiative (CSEi). I am jointly advised by [B. B. Cael](https://geosci.uchicago.edu/people/b-b-cael/) and [David Keith](https://davidkeith.earth). My work leverages tools from data science, optimization, and computational modeling to drive insights in climate science, economics, and risk management.
+
+You can find examples of my past work on my [projects](https://www.ambauer.com/projects/) page, which goes into more detail on each project and the tools I used to complete it.
+
+Some useful links:
+- [**My industry resume (2 pages).**](/files/cv/Bauer_Resume_Apr2026.pdf). This is the best reference for what I've done tailored for an industry audience.
+- [**My academic CV (5 pages).**](/files/cv/Bauer_CV_Apr2026.pdf). This documents everything I've ever done, dating back to my old days as an undergraduate researcher at the University of Arizona. Good times.
+- [**My Github**.](https://github.com/adam-bauer-34). All the code I've ever written. (View at your own risk.)
 
 # Research manifesto
-I am an interdisciplinarian, working at the nexus of climate physics, economics, and policy (with a little computational science mixed in for good measure). My style of research isn't necessarily to hone in and be "the world expert" on one particular topic (though I have written papers for subject-specific field journals, like *Journal of Climate* and *Environmental and Resource Economics*). Rather, I prefer to sit at the nexus between fields, in my case, between climate physics and economics, and write papers that are insightful for both. I especially love building bridges between disciplines to bring about new collaborations and ideas that push the frontier of our understanding.
+I am an interdisciplinarian, working at the nexus of climate physics, economics, and policy (with a little computational science mixed in for good measure). My style of work isn't to silo myself and be "the world expert" on one particular topic (though I have written papers for subject-specific field journals, like *Journal of Climate* and *Environmental and Resource Economics*). Rather, I prefer to serve as a conduit between fields -- in my case, between climate physics and economics -- and write papers that are insightful for both. I especially love building bridges between disciplines to bring about new collaborations and ideas that push the frontier of our understanding.
 
 Here's a short-list of topics I'm interested in and/or have worked on:
 - Decision-making under uncertainty
-- Climate engineering (i.e., solar radiation management)
-- Stochastic modeling
+- Climate interventions
+- Stochastic modeling and uncertainty
 - Variational data assimilation and machine learning
 - Deep uncertainty modeling
-- Earth's systems models (or ESMs, I'm particularly interested in how end-users should utilize ESMs in decision-making)
+- Earth's systems models (I'm particularly interested in how end-users use these models in decision-making)
 - Decarbonization investment strategies
 - The physics of heat waves
 

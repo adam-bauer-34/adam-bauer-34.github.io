@@ -36,7 +36,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Adam Michael Bauer
-  author__bio: ... is interested in learning more, building connections, and doing as much good as possible. Right now, he's fixated on the climate problem, doing research at the nexus of climate science, climate economics, and climate policy. 
+  author__bio: ... is interested in learning more, building connections, and doing as much good as possible. His research is at the nexus of climate science, economics, and policy, primarily leveraging skills from data science, optimization, and statistics. Oh, and he also loves to climb.
   author__avatar: '/images/lower_profile.JPG'
 
 social:
@@ -51,7 +51,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Adam Michael Bauer, Postdoc @ UChicago
-  hero__description: I am a postdoctoral researcher in the University of Chicago's Department of Geosphysical Sciences & the Climate Systems Engineering Initiative. I study climate science, economics, and policy to better understand the risks climate change poses to our planet, both now and in the future, and possible ways we can address them. Check out my <a href="https://ambauer.com/files/cv/Bauer_CV.pdf">CV</a> here.
+  hero__description: I am a postdoctoral researcher in the University of Chicago's Institute for Climate and Sustainable Growth & the Climate Systems Engineering Initiative. I use tools from data science, optimization, and computational modeling to study climate science, economics, and risk management. My goal is to better understand the risks climate change poses to our planet, both now and in the future, and possible ways we can address them. Check out my <a href="https://ambauer.com/files/cv/Bauer_Resume_Apr2026.pdf">industry resume (shorter)</a> and <a href="https://ambauer.com/files/cv/Bauer_CV_Apr2026.pdf">academic CV (long)</a> here.
   hero__image: '/images/profile.jpg'
 
 #-------------------------------
