@@ -1,7 +1,7 @@
 ---
 title: The statistics of global temperature extremes
 date: 2025-11-01 08:01:35 +0300
-subtitle: In progress
+subtitle: Data science | Risk analysis | Statistics
 image: '/images/project-images/heatwave.jpg'
 ---
 

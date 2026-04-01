@@ -1,7 +1,7 @@
 ---
 title: When will we know solar geoengineering efficacy?
 date: 2025-08-01 08:01:35 +0300
-subtitle: In progress
+subtitle: Data assimilation | Risk analysis | Uncertainty
 image: '/images/project-images/sun.jpg'
 ---
 

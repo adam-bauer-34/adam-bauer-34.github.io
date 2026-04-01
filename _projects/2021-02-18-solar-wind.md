@@ -1,7 +1,7 @@
 ---
 title: Rigorously constructing the solar wind
 date: 2021-02-18 08:01:35 +0300
-subtitle: SIAM Journal on Applied Dynamical Systems
+subtitle: Dynamical systems | Stability theory | Pen-and-paper mathematics
 image: '/images/project-images/level_set.png'
 ---
 

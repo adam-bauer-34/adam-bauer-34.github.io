@@ -1,7 +1,7 @@
 ---
 title: Optimal Allocation of Abatement Effort under Political Constraints
 date: 2022-12-21 08:01:35 +0300
-subtitle: Environmental and Resource Economics
+subtitle: Optimization | Second-best policies | Climate economics
 image: '/images/project-images/pol.jpeg'
 ---
 

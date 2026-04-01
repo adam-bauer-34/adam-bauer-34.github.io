@@ -1,7 +1,7 @@
 ---
 title: An Analytical Model for the Influence of Soil Moisture on Temperature Extremes in the Midlatitudes
 date: 2022-12-19 08:01:35 +0300
-subtitle: R&R at Journal of Climate
+subtitle: Stochastic modeling | Dynamical systems | Data analysis
 image: '/images/project-images/10-11-2022-3ps.png'
 ---
 

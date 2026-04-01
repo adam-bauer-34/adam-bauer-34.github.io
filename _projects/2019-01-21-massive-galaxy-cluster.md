@@ -1,7 +1,7 @@
 ---
 title: Dynamical analysis of massive galaxy clusters
 date: 2019-01-21 08:01:35 +0300
-subtitle: The Astrophysical Journal
+subtitle: Data analysis | Astronomy | Galaxy clusters
 image: '/images/project-images/obs.png'
 ---
 
