@@ -1,7 +1,7 @@
 ---
 title: Investigating the spacetime of light
 date: 2020-05-15 08:01:35 +0300
-subtitle: Undergraduate Honors Thesis
+subtitle: Theoretical physics | General relativity | Black holes
 image: '/images/project-images/wormhole.png'
 ---
 
