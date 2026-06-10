@@ -2,9 +2,9 @@
 layout: post
 title: The AI Revolution Mirrors the Green Transition
 description: The need for massive upfront investments and the likelihood of significant job displacement imply remarkable parallels between the AI buildout and the green transition.
-date: 2026-06-10 16:32:00 -0600
+date: 2026-06-10 16:32:00 +0300
 image: '/images/blog-images/ps-ai-green/chips-solar.jpg'
-tags: [ai, energy-transition, risk]
+tags: [ai, energy-transition, opinion]
 ---
 
 *By: Adam Michael Bauer and [Gernot Wagner](gwagner.com)*
