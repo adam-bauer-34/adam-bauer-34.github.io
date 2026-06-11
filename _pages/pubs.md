@@ -10,7 +10,6 @@ image:
 # Peer-reviewed research articles
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. An Analytical Model for the Influence of Soil Moisture on Temperature Extremes in the Midlatitudes. *Journal of Climate*, 38(24), 2026. [Publisher's link](https://journals.ametsoc.org/view/journals/clim/38/24/JCLI-D-24-0624.1.xml). [Preprint version](https://eartharxiv.org/repository/view/5009/).
 
-
 **Bauer, A. M.**, S. Hallegatte, F. McIsaac. Optimal Allocation of Abatement Effort Under Political Constraints: The Economic Cost of Delaying Sectoral and Economy-Wide Climate Policies. *Environmental and Resource Economics*, 2026. [Publisher's link](https://link.springer.com/article/10.1007/s10640-025-01029-2). [Preprint version](/files/papers/pe/BHM-Pol-Econ-FINAL.pdf). (Previously World Bank Policy Research Working Paper No. 10971.)
 
 **Bauer, A. M.**, F. McIsaac, S. Hallegatte. Decarbonization Investment Strategies in an Uncertain Climate. *Earth's Future*, 13(5), 2025. [Publisher's link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005851?af=R). [Preprint version.](/files/papers/decarb-uncertain-climate/BMH-EarthsFuture-Accepted.pdf) (Previously World Bank Policy Research Working Paper No. 10743.)
@@ -36,6 +35,8 @@ McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does
 **Bauer, A. M.**, D. C. Lafferty, K. Schwarzwald, C. Proistosescu, G. Wagner. Comments on "Principles for Climate-Related Financial Risk Management for Large Financial Institutions". Docket No. OP-1793, The Federal Reserve, 2023. [Link to PDF.](/files/reports/fed/BLSPW_FedClimateRiskComment.pdf)
 
 # Popular Press
+**Bauer, A. M.**, G. Wagner. The AI Revolution Mirrors the Green Transition. *Project Syndicate*, 2026. [Link to article.](https://www.project-syndicate.org/commentary/ai-and-clean-energy-transition-similar-economics-and-policy-implications-by-adam-michael-bauer-and-gernot-wagner-2026-06)
+
 **Bauer, A. M.**, G. Wagner. Using financial logic to price carbon emissions. *Green Central Banking*, 2024. [Link to article.](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/)
 
 **Bauer, A. M.** Merging Physics and Economics for Climate Policy. *University of Illinois Department of Physics Research Highlight*, 2023. [Link to article.](https://physics.illinois.edu/research/highlights/climatemodelling)
