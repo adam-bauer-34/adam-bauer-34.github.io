@@ -11,19 +11,19 @@ You can find examples of my past work on my [projects](https://www.ambauer.com/p
 
 Some useful links:
 - [**My industry resume (2 pages).**](/files/cv/Bauer_Resume_Apr2026.pdf). This is the best reference for what I've done tailored for an industry audience.
-- [**My academic CV (5 pages).**](/files/cv/Bauer_CV_Apr2026.pdf) This documents everything I've ever done, dating back to my old days as an undergraduate researcher at the University of Arizona. Good times.
+- [**My academic CV (5 pages).**](/files/cv/Bauer_CV_Sep2026.pdf) This documents everything I've ever done, dating back to my old days as an undergraduate researcher at the University of Arizona. Good times.
 - [**My Github**.](https://github.com/adam-bauer-34) All the code I've ever written. (View at your own risk.)
 
 # Research philosophy
-I am an interdisciplinarian, working at the nexus of climate physics, economics, and policy (with a little computational science mixed in for good measure). My style of work isn't to silo myself and be "the world expert" on one particular topic (though I have written papers for subject-specific field journals, like *Journal of Climate* and *Environmental and Resource Economics*). Rather, I prefer to serve as a conduit between fields -- in my case, between climate physics and economics -- and write papers that are insightful for both. I especially love building bridges between disciplines to bring about new collaborations and ideas that push the frontier of our understanding.
+I am an interdisciplinarian, working at the nexus of climate physics, economics, and policy (with a little computational science mixed in for good measure). I especially enjoy working as a conduit between fields -- in my case, between climate physics and economics -- and write papers that are insightful for both. I especially love building bridges between disciplines to bring about new collaborations and ideas that push the frontier of our understanding.
 
 Here's a short-list of topics I'm interested in and/or have worked on:
 - Decision-making under uncertainty
+- Extreme value theory
 - Climate interventions
 - Stochastic modeling and uncertainty
 - Variational data assimilation and machine learning
 - Deep uncertainty modeling
-- Earth's systems models (I'm particularly interested in how end-users use these models in decision-making)
 - Decarbonization investment strategies
 - The physics of heat waves
 

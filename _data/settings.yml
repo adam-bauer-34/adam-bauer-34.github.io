@@ -51,7 +51,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Adam Michael Bauer, Postdoc @ UChicago
-  hero__description: I am a postdoctoral researcher in the University of Chicago's Institute for Climate and Sustainable Growth & the Climate Systems Engineering Initiative. I use tools from data science, optimization, and computational modeling to study climate science, economics, and risk management. My goal is to better understand the risks climate change poses to our planet, both now and in the future, and possible ways we can address them. Check out my <a href="https://ambauer.com/files/cv/Bauer_Resume_Apr2026.pdf">industry resume (shorter)</a> and <a href="https://ambauer.com/files/cv/Bauer_CV_Jun2026.pdf">academic CV (long)</a> here.
+  hero__description: I am a postdoctoral researcher in the University of Chicago's Institute for Climate and Sustainable Growth & the Climate Systems Engineering Initiative. I use tools from data science, optimization, and computational modeling to study climate science, economics, and risk management. My goal is to better understand the risks climate change poses to our planet, both now and in the future, and possible ways we can address them. Check out my <a href="https://ambauer.com/files/cv/Bauer_Resume_Apr2026.pdf">industry resume (shorter)</a> and <a href="https://ambauer.com/files/cv/Bauer_CV_Sep2026.pdf">academic CV (long)</a> here.
   hero__image: '/images/profile.jpg'
 
 #-------------------------------
