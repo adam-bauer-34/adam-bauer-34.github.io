@@ -7,6 +7,11 @@ image:
 
 *Ordered by recency. A superscript 'x' implies I was the primary advisor of the student throughout the project. If you cannot access any of the articles, [please reach out to me](https://www.ambauer.com/contact/).*
 
+# Working papers
+**Bauer, A. M.**, C. Proistosescu, K. K. Droegemeier. Learning Climate Sensitivity from Future Observations, Fast and Slow. R&R at *Journal of Climate*. *arXiv Preprint*, 2025. [Link to preprint.](https://arxiv.org/abs/2507.15767)
+
+**Bauer, A. M.**, V. Sapkota, I. Baxter, T. A. Shaw, B. B. Cael. Changes in Global and Regional Extreme Temperatures Over Land: An Extreme Value Theory Perspective, Submitted to *Geophysical Research Letters*, 2026. [Link to paper.](/files/papers/gev-heat-waves/BS2C_Manuscript.pdf)
+
 # Peer-reviewed research articles
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. An Analytical Model for the Influence of Soil Moisture on Temperature Extremes in the Midlatitudes. *Journal of Climate*, 38(24), 2026. [Publisher's link](https://journals.ametsoc.org/view/journals/clim/38/24/JCLI-D-24-0624.1.xml). [Preprint version](https://eartharxiv.org/repository/view/5009/).
 
@@ -18,16 +23,13 @@ McDonnell, A.<sup>x</sup>, **A. M. Bauer**, C. Proistosescu. To What Extent Does
 
 **Bauer, A. M.**, C. Proistosescu, G. Wagner. Carbon Dioxide as a Risky Asset. *Climatic Change*, 177(72), 2024. [Publisher's link.](https://link.springer.com/article/10.1007/s10584-024-03724-3) [Preprint version.](/files/papers/cap6/BPW_CarbonDioxideRiskyAsset_ClimChange_FINAL.pdf) (Previously CESifo Working Paper No. 10278 and Columbia CEEP Working Paper No. 23.)
 
-*In press*:
+*Carbon Dioxide as a Risky Asset* in the press:
 - [*Yale Climate Connections*](https://yaleclimateconnections.org/2023/04/drastic-climate-action-is-the-best-course-for-economic-growth-new-study-finds/)
 - [*Jerusalem Post*](https://www.jpost.com/environment-and-climate-change/article-739316)
 - [UIUC Physics Research Highlight](https://physics.illinois.edu/research/highlights/climatemodelling)
 - [*Semafor* Net Zero Newsletter](https://www.semafor.com/newsletter/05/08/2024/semafor-net-zero-a-tipping-point-for-power?utm_source=nowshare&utm_medium=climate&utm_campaign=flagshipnumbered4#e)
 - [*Green Central Banking*](https://greencentralbanking.com/2024/05/23/using-financial-logic-to-price-carbon-emissions/?utm_source=linkedin&utm_medium=social&utm_campaign=news)
 - [Cited in *The New York Times*](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html?unlocked_article_code=1.1U0.yMjT.ca0e93qLXO-B&smid=url-share)
-
-# Working papers
-**Bauer, A. M.**, C. Proistosescu, K. K. Droegemeier. Learning Climate Sensitivity from Future Observations, Fast and Slow. *arXiv Preprint*, 2025. [Link to preprint.](https://arxiv.org/abs/2507.15767)
 
 # Policy briefs and commentary
 **Bauer, A. M.**, S. Hallegatte, F. McIsaac. *When the Best is the Enemy of the Good: Minimizing the Impact of Political Constraints on Climate Policy Costs*. E-Axes Forum Policy Brief, 2025. [Link to PDF.](/files/reports/eaxes/BHM_PB_25.pdf)
