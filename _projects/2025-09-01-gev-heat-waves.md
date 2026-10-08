@@ -1,6 +1,6 @@
 ---
 title: Changes in Global and Regional Extreme Temperatures Over Land - An Extreme Value Theory Perspective
-date: 2026-09-09 18:29:00 +0300
+date: 2025-09-09 18:29:00 +0300
 subtitle: Data science | Risk analysis | Statistics
 image: '/images/project-images/heatwave.png'
 ---
