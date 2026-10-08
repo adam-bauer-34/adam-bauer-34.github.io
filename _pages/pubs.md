@@ -12,7 +12,7 @@ image:
 
 **Bauer, A. M.**, V. Sapkota, I. Baxter, T. A. Shaw, B. B. Cael. Changes in Global and Regional Extreme Temperatures Over Land: An Extreme Value Theory Perspective. Submitted to *Geophysical Research Letters*, 2026. [Link to paper.](/files/papers/gev-heat-waves/BS2C_Manuscript.pdf)
 
-**Bauer, A. M.**, B. B. Cael, D. W. Keith. Inferring Stratospheric Aerosol Injection Climate Response Inequality. Submitted to *Environmental Research Letters*, 2026. [Link to paper.](files/papers/sai-learning/BCK_InferringSAIInequality_Submitted.pdf)
+**Bauer, A. M.**, B. B. Cael, D. W. Keith. Inferring Stratospheric Aerosol Injection Climate Response Inequality. Submitted to *Environmental Research Letters*, 2026. [Link to paper.](/files/papers/sai-learning/BCK_InferringSAIInequality_Submitted.pdf)
 
 # Peer-reviewed research articles
 **Bauer, A. M.**, L. R. Vargas Zeppetello, C. Proistosescu. An Analytical Model for the Influence of Soil Moisture on Temperature Extremes in the Midlatitudes. *Journal of Climate*, 38(24), 2026. [Publisher's link](https://journals.ametsoc.org/view/journals/clim/38/24/JCLI-D-24-0624.1.xml). [Preprint version](https://eartharxiv.org/repository/view/5009/).
