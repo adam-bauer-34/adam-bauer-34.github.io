@@ -11,7 +11,7 @@ You can find examples of my past work on my [projects](https://www.ambauer.com/p
 
 Some useful links:
 - [**My industry resume (2 pages).**](/files/cv/Bauer_Resume_Apr2026.pdf). This is the best reference for what I've done tailored for an industry audience.
-- [**My academic CV (5 pages).**](/files/cv/Bauer_CV_Sep2026.pdf) This documents everything I've ever done, dating back to my old days as an undergraduate researcher at the University of Arizona. Good times.
+- [**My academic CV (5 pages).**](/files/cv/Bauer_CV_Oct2026.pdf) This documents everything I've ever done, dating back to my old days as an undergraduate researcher at the University of Arizona. Good times.
 - [**My Github**.](https://github.com/adam-bauer-34) All the code I've ever written. (View at your own risk.)
 
 # Research philosophy
