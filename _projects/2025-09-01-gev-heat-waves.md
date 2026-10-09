@@ -16,7 +16,7 @@ We then use the GEV to explore how the distribution of extreme temperatures is c
 Heat waves are among the most damaging consequences of climate change, yet how the distribution of extreme temperatures is changing remains unclear. Here, we show that the generalized extreme value distribution is fit-for-purpose to analyze extreme temperatures over land. We find that there is no statistically significant trend in global maximum temperatures relative to the mean in the reanalysis record. However, we do find statistically significant regional trends: about 14% of the land surface has a statistically significant positive trend relative to the mean, and about 17% of the land surface has a significant negative trend. We show that climate models struggle to reproduce the distributional characteristics of extreme temperatures found in reanalysis, other than the distributional mean. Finally, we find that biases in the variability, rather than the mean-state, of the extreme temperature distribution dominate biases in projections of extreme temperature risk over large fractions of the land surface.
 
 # Working paper and citation
-[Link to paper](/files/papers/extreme-temperatures-evt/BS2C-Manuscript.pdf) (submitted to *Geophysical Research Letters*)
+[Link to paper](/files/papers/gev-heat-waves/BS2C_Manuscript.pdf) (submitted to *Geophysical Research Letters*)
 
 _Citation_: Bauer, A. M., V. Sapkota, I. Baxter, T. A. Shaw, B. B. Cael. Changes in Global and Regional Extreme Temperatures Over Land: An Extreme Value Theory Perspective. (in review)
 
